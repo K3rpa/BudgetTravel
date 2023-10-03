@@ -1,0 +1,2711 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.5 4133829e",
+  "osm3s": {
+    "timestamp_osm_base": "2023-10-03T04:08:04Z",
+    "timestamp_areas_base": "2023-10-03T00:11:13Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 984932957,
+      "lat": 39.7306597,
+      "lon": -121.859635,
+      "tags": {
+        "addr:city": "Chico",
+        "addr:housenumber": "995",
+        "addr:postcode": "95926",
+        "addr:state": "CA",
+        "addr:street": "Nord Avenue",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Taj Fine Indian Cuisine",
+        "opening_hours": "We-Sa 12:00-20:00, Su 12:00-21:00",
+        "phone": "+1 (530) 592-3395",
+        "website": "https://taj-fine-indian-cuisine.business.site/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 984932958,
+      "lat": 39.7305978,
+      "lon": -121.8594635,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "name": "The Cheese Steak Shop",
+        "website": "https://www.cheesesteakshop.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2746823020,
+      "lat": 39.7309122,
+      "lon": -121.8398189,
+      "tags": {
+        "addr:city": "Chico",
+        "addr:housenumber": "198",
+        "addr:postcode": "95928",
+        "addr:street": "East 2nd Street",
+        "amenity": "restaurant",
+        "name": "Grana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3667613103,
+      "lat": 39.7357211,
+      "lon": -121.8208287,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Beatniks Coffee and Breakfast"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4311364686,
+      "lat": 39.7237536,
+      "lon": -121.8316018,
+      "tags": {
+        "addr:housenumber": "1144",
+        "addr:street": "Park Avenue",
+        "amenity": "restaurant",
+        "name": "The Roost Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4565431006,
+      "lat": 39.7288232,
+      "lon": -121.8405275,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "frozen_yogurt",
+        "name": "Jon & Bon's Yogurt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5359988061,
+      "lat": 39.7386805,
+      "lon": -121.8041754,
+      "tags": {
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/Mariscos-La-Costa-Mexican-seafood-grill-1557503074462137/",
+        "cuisine": "mexican;seafood",
+        "name": "Mariscos La Costa",
+        "note": "Position approximate (from drive-by survey)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9796268718,
+      "lat": 39.7245575,
+      "lon": -121.8146797,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Sierra Nevada Brewing Company Taproom"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10065777353,
+      "lat": 39.7317029,
+      "lon": -121.8589457,
+      "tags": {
+        "addr:city": "Chico",
+        "addr:housenumber": "1008",
+        "addr:postcode": "95926",
+        "addr:state": "CA",
+        "addr:street": "West Sacramento Avenue",
+        "amenity": "restaurant",
+        "cuisine": "japanese;ramen",
+        "name": "Coco's Ramen",
+        "opening_hours": "17:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10127232240,
+      "lat": 39.7209568,
+      "lon": -121.8456365,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2022-10-24",
+        "cuisine": "asian;burger;sandwich",
+        "name": "Kathy’s Deli",
+        "phone": "+1 530-343-5925",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10127348060,
+      "lat": 39.7614452,
+      "lon": -121.8657025,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Rice Bowl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10783310005,
+      "lat": 39.7577793,
+      "lon": -121.8628307,
+      "tags": {
+        "addr:city": "Chico",
+        "addr:housenumber": "1645",
+        "addr:postcode": "95973",
+        "addr:state": "CA",
+        "addr:street": "Park Avenue",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Aztlan",
+        "name:en": "Aztlan Grilled Taqueria",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "phone": "530 487 7062"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11060934205,
+      "lat": 39.7197925,
+      "lon": -121.8222209,
+      "tags": {
+        "addr:housenumber": "175",
+        "addr:postcode": "95928",
+        "addr:street": "East 20th Street",
+        "amenity": "restaurant",
+        "name": "Mulberry Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11076077080,
+      "lat": 39.7531278,
+      "lon": -121.8582204,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Farm Star Pizza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11194945328,
+      "lat": 39.7297883,
+      "lon": -121.8416297,
+      "tags": {
+        "addr:city": "Chico",
+        "addr:housenumber": "142",
+        "addr:postcode": "95928",
+        "addr:state": "CA",
+        "addr:street": "Broadway St",
+        "amenity": "restaurant",
+        "cuisine": "brazilian",
+        "currency:XBT": "yes",
+        "name": "Lili's Brazilian Bistro",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "payment:lightning": "yes",
+        "phone": "+1-530-399-0675",
+        "survey:date": "2023-09-15",
+        "website": "https://www.lilisbrazilianbistro.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 39513547,
+      "nodes": [
+        473366180,
+        473366181,
+        7035250289,
+        473366182,
+        473366183,
+        473366180
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "bar": "yes",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/TresChico",
+        "cuisine": "tex-mex",
+        "name": "Trés Hombres",
+        "outdoor_seating": "yes",
+        "phone": "+1 (530) 342-0425",
+        "website": "https://treshombreschico.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 85226704,
+      "nodes": [
+        988333084,
+        988333094,
+        988333095,
+        988333096,
+        988333084
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 85226720,
+      "nodes": [
+        988333165,
+        988333167,
+        988333169,
+        988333173,
+        988333165
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Black Bear Diner",
+        "brand:wikidata": "Q4920343",
+        "brand:wikipedia": "en:Outback Steakhouse",
+        "building": "yes",
+        "cuisine": "american",
+        "name": "Black Bear Diner"
+      }
+    },
+    {
+      "type": "way",
+      "id": 85240650,
+      "nodes": [
+        1706392712,
+        988417532,
+        988417534,
+        988417536,
+        1706392712
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Red Lobster",
+        "brand:wikidata": "Q846301",
+        "brand:wikipedia": "en:Red Lobster",
+        "building": "yes",
+        "cuisine": "seafood",
+        "name": "Red Lobster"
+      }
+    },
+    {
+      "type": "way",
+      "id": 85240652,
+      "nodes": [
+        4711082962,
+        4711082965,
+        4711082964,
+        4711082963,
+        988417544,
+        988417542,
+        988417541,
+        988417540,
+        4711082962
+      ],
+      "tags": {
+        "addr:housenumber": "2020",
+        "addr:street": "Business Lane",
+        "amenity": "restaurant",
+        "brand": "Olive Garden",
+        "brand:wikidata": "Q3045312",
+        "brand:wikipedia": "en:Olive Garden",
+        "building": "yes",
+        "cuisine": "italian",
+        "name": "Olive Garden",
+        "website": "https://www.olivegarden.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269471637,
+      "nodes": [
+        2746822912,
+        2746823818,
+        2746823819,
+        2746823820,
+        2746822912
+      ],
+      "tags": {
+        "addr:city": "Chico",
+        "addr:housenumber": "166",
+        "addr:postcode": "95928",
+        "addr:street": "East 2nd Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Woodstocks"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269472367,
+      "nodes": [
+        2746826879,
+        2746826880,
+        2746827059,
+        2746827563,
+        2746827060,
+        2746826879
+      ],
+      "tags": {
+        "addr:city": "chico",
+        "addr:housenumber": "138",
+        "addr:postcode": "95928",
+        "addr:street": "main Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "Kona's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269472736,
+      "nodes": [
+        2746828949,
+        2746828951,
+        2746830183,
+        7035511909,
+        7035511911,
+        2746830184,
+        2746828949
+      ],
+      "tags": {
+        "addr:city": "Chico",
+        "addr:housenumber": "134",
+        "addr:postcode": "95928",
+        "addr:street": "West 2nd Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "The Banshee"
+      }
+    },
+    {
+      "type": "way",
+      "id": 298977105,
+      "nodes": [
+        4711994843,
+        3029002075,
+        3029002074,
+        4711994842,
+        4711994843
+      ],
+      "tags": {
+        "addr:city": "Chico",
+        "addr:housenumber": "2021",
+        "addr:state": "CA",
+        "addr:street": "Doctor Martin Luther King Junior Parkway",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "japanese",
+        "name": "Hibachi Grill Buffet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 298977546,
+      "nodes": [
+        3029001258,
+        3029001259,
+        3029001260,
+        3029001261,
+        4710989866,
+        4710989867,
+        4710989868,
+        4710989869,
+        3029001258
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "IHOP",
+        "brand:wikidata": "Q1185675",
+        "brand:wikipedia": "en:IHOP",
+        "building": "yes",
+        "cuisine": "breakfast;pancake",
+        "name": "IHOP"
+      }
+    },
+    {
+      "type": "way",
+      "id": 298977547,
+      "nodes": [
+        3029001262,
+        4710989845,
+        4710989844,
+        3029001263,
+        3029001264,
+        3029001265,
+        3029001266,
+        3029001267,
+        3029001268,
+        3029001269,
+        3029001262
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Applebee's Neighborhood Grill & Bar",
+        "brand:wikidata": "Q621532",
+        "brand:wikipedia": "en:Applebee's",
+        "building": "yes",
+        "cuisine": "american",
+        "name": "Applebee's",
+        "official_name": "Applebee's Neighborhood Grill & Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 298977717,
+      "nodes": [
+        3029003879,
+        3029003880,
+        3029003881,
+        3029003882,
+        3029003879
+      ],
+      "tags": {
+        "addr:city": "Chico",
+        "addr:housenumber": "209",
+        "addr:postcode": "95928",
+        "addr:state": "CA",
+        "addr:street": "Salem Street",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/momschico",
+        "cuisine": "american",
+        "name": "Mom's",
+        "outdoor_seating": "yes",
+        "phone": "+1 (530) 893-3447",
+        "website": "http://www.momschico.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 301852375,
+      "nodes": [
+        4711994930,
+        4711994933,
+        4711994932,
+        4711994931,
+        3060046881,
+        4711994937,
+        4711994942,
+        4711994940,
+        4711994934,
+        4711994938,
+        4711994939,
+        4711994935,
+        4711994941,
+        4711994936,
+        3060046875,
+        3060046876,
+        4711994930
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Chili's",
+        "brand:wikidata": "Q1072948",
+        "building": "yes",
+        "cuisine": "tex-mex",
+        "name": "Chili's",
+        "official_name": "Chili's Grill & Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 301852376,
+      "nodes": [
+        4711994888,
+        4711994890,
+        4711994891,
+        4711994889,
+        3060046894,
+        3060046885,
+        3060046886,
+        3060046889,
+        4711994888
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Logans"
+      }
+    },
+    {
+      "type": "way",
+      "id": 301858956,
+      "nodes": [
+        3060109589,
+        3060109590,
+        3060109591,
+        3060109592,
+        3060109589
+      ],
+      "tags": {
+        "addr:housenumber": "506",
+        "addr:street": "Ivy Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "italian",
+        "name": "Frankys"
+      }
+    },
+    {
+      "type": "way",
+      "id": 302144592,
+      "nodes": [
+        7035207881,
+        7035207882,
+        7035207883,
+        3063874293,
+        7035250190,
+        3063874295,
+        7035207881
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "retail",
+        "cuisine": "indian",
+        "name": "Gogi's Cafe",
+        "phone": "+1 (530) 891-3570"
+      }
+    },
+    {
+      "type": "way",
+      "id": 453470792,
+      "nodes": [
+        4502010189,
+        4502010190,
+        4502010191,
+        4502010192,
+        4502010189
+      ],
+      "tags": {
+        "addr:city": "Chico",
+        "addr:housenumber": "1844",
+        "addr:postcode": "95926",
+        "addr:state": "CA",
+        "addr:street": "Esplanade",
+        "amenity": "restaurant",
+        "building": "yes",
+        "capacity": "45",
+        "cuisine": "burger",
+        "delivery": "no",
+        "name": "Big Al's",
+        "opening_hours": "10:00-22:30",
+        "smoking": "outside",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 460967890,
+      "nodes": [
+        4565385856,
+        4565385857,
+        4565385858,
+        4565385859,
+        4565385856
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "donut",
+        "name": "Donut Shop"
+      }
+    },
+    {
+      "type": "way",
+      "id": 460969400,
+      "nodes": [
+        4565396341,
+        4565396342,
+        4565396343,
+        4565396344,
+        4565396341
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "diner",
+        "name": "Kalico Kitchen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 460969402,
+      "nodes": [
+        4565396351,
+        4565396352,
+        4565396353,
+        4565396354,
+        4565396355,
+        4565396356,
+        4565396351
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "breakfast",
+        "name": "Sin of Cortez"
+      }
+    },
+    {
+      "type": "way",
+      "id": 460969403,
+      "nodes": [
+        4565396357,
+        4565396358,
+        4565396359,
+        4565396360,
+        4565396361,
+        4565396362,
+        4565396363,
+        4565396364,
+        4565396357
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "italian",
+        "name": "Italian Cottage"
+      }
+    },
+    {
+      "type": "way",
+      "id": 460975277,
+      "nodes": [
+        4565430454,
+        4565430455,
+        4565430456,
+        4565430457,
+        4565430454
+      ],
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "diner",
+        "name": "Cozy Diner"
+      }
+    },
+    {
+      "type": "way",
+      "id": 460975281,
+      "nodes": [
+        4565430474,
+        4565430475,
+        4565430476,
+        4565430477,
+        4565430474
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "La Comida"
+      }
+    },
+    {
+      "type": "way",
+      "id": 460975284,
+      "nodes": [
+        4565430488,
+        4565430989,
+        7707748604,
+        7707748592,
+        7707748593,
+        7707748594,
+        4565430990,
+        7707748595,
+        7707748596,
+        4565430991,
+        7707748597,
+        7707748598,
+        7707748599,
+        4565430992,
+        7707748600,
+        7707748601,
+        7707748602,
+        7707748591,
+        7707748603,
+        4565430488
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "breakfast",
+        "name": "Morning Thunder Cafe"
+      }
+    },
+    {
+      "type": "way",
+      "id": 478323677,
+      "nodes": [
+        4715537184,
+        4715537183,
+        4715537181,
+        4715537185,
+        4715537187,
+        4715537186,
+        4715537180,
+        4715537182,
+        4715537184
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "Burgers 'n Brew"
+      }
+    },
+    {
+      "type": "way",
+      "id": 478323834,
+      "nodes": [
+        4715538369,
+        4715538373,
+        4715538372,
+        4715538375,
+        4715538374,
+        4715538368,
+        4715538371,
+        4715538370,
+        4715538369
+      ],
+      "tags": {
+        "addr:postcode": "95928",
+        "addr:street": "303 Main St",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Crush"
+      }
+    },
+    {
+      "type": "way",
+      "id": 488731794,
+      "nodes": [
+        4810177950,
+        4810177951,
+        4810177952,
+        4810177953,
+        4810177950
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Duffy's Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 546937676,
+      "nodes": [
+        5284992227,
+        5284992228,
+        5284992229,
+        5284992230,
+        5284992227
+      ],
+      "tags": {
+        "addr:city": "Chico",
+        "addr:housenumber": "101",
+        "addr:state": "CA",
+        "addr:street": "Salem Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Celestino's New York Pizza",
+        "outdoor_seating": "yes",
+        "phone": "+1 (530) 896-1234",
+        "website": "http://www.celestinosnypizza.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 699795377,
+      "nodes": [
+        6571292884,
+        6571337085,
+        6571337086,
+        6571337087,
+        6571292884
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Buffalo Wild Wings",
+        "brand:wikidata": "Q509255",
+        "building": "yes",
+        "cuisine": "wings",
+        "name": "Buffalo Wild Wings",
+        "short_name": "BW3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 745127244,
+      "nodes": [
+        6975078035,
+        6975078036,
+        6975078037,
+        6975078038,
+        6975078039,
+        6975078040,
+        6975078041,
+        6975078042,
+        6975078035
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "La Hacienda"
+      }
+    },
+    {
+      "type": "way",
+      "id": 745396754,
+      "nodes": [
+        6977478605,
+        6977478606,
+        6977478607,
+        6977478608,
+        6977478609,
+        6977478610,
+        6977478611,
+        6977478612,
+        6977478613,
+        6977478614,
+        6977478605
+      ],
+      "tags": {
+        "addr:city": "Chico",
+        "addr:housenumber": "3355",
+        "addr:postcode": "95973",
+        "addr:state": "CA",
+        "addr:street": "Esplanade",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "Basque Norte"
+      }
+    },
+    {
+      "type": "way",
+      "id": 752914961,
+      "nodes": [
+        3029003882,
+        7035250248,
+        7035250249,
+        3029003879,
+        3029003882
+      ],
+      "tags": {
+        "addr:city": "Chico",
+        "addr:housenumber": "243",
+        "addr:postcode": "95928",
+        "addr:state": "CA",
+        "addr:street": "Salem Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "location": "underground",
+        "name": "Gnarly Deli",
+        "opening_hours": "Tu 18:00-21:00, We 11:30-21:00, Th-Sa 11:30-23:00, Su 11:30-19:00",
+        "website": "https://gnarlydeli.square.site/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 752914967,
+      "nodes": [
+        7035250263,
+        7035250266,
+        7035250267,
+        7035250268,
+        7035250263
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mediterranean"
+      }
+    },
+    {
+      "type": "way",
+      "id": 753609527,
+      "nodes": [
+        7041194732,
+        7041194733,
+        7041194734,
+        7041194735,
+        7041194732
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 800854419,
+      "nodes": [
+        7490609437,
+        7490609438,
+        7490609439,
+        7490609440,
+        7490609437
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "name": "The Grateful Bean",
+        "website": "https://www.gratefulbeancoffee.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1050877742,
+      "nodes": [
+        9657098966,
+        9657098967,
+        9657098968,
+        9657098969,
+        9657098966
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "Tacos Ramirez",
+        "opening_hours": "Mo-Sa 10:30-21:00",
+        "phone": "+15303540446"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1050886676,
+      "nodes": [
+        9657194338,
+        9657194339,
+        9657194340,
+        9657194341,
+        9657194338
+      ],
+      "tags": {
+        "addr:city": "Chico",
+        "addr:housenumber": "244",
+        "addr:postcode": "95928",
+        "addr:state": "CA",
+        "addr:street": "Walnut Street",
+        "addr:unit": "B",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "Tacos Tonaya #2",
+        "phone": "+15308938972"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1106802742,
+      "nodes": [
+        10127841533,
+        10127841534,
+        10127841535,
+        10127841536,
+        10127841537,
+        10127841538,
+        10127841539,
+        10127841540,
+        10127841541,
+        10127841542,
+        10127841543,
+        10127841544,
+        10127841545,
+        10127841533
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1107616018,
+      "nodes": [
+        10134488675,
+        10134488676,
+        10134488677,
+        10134488678,
+        10134488675
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1138556996,
+      "nodes": [
+        10613250561,
+        10613250562,
+        10613250563,
+        10613250564,
+        10613250561
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Deja Vu Breakfast Company"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1138564280,
+      "nodes": [
+        10613338927,
+        10613338928,
+        10613338929,
+        10613338930,
+        10613338927
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "La Cocina Economica"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1139081099,
+      "nodes": [
+        10617136148,
+        10617136149,
+        10617136150,
+        10617136151,
+        10617136148
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Pueblito #2 Mexican Restaurant"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1139083053,
+      "nodes": [
+        10617105752,
+        10617105753,
+        10617105754,
+        10617105755,
+        10617105752
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Red Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1139158287,
+      "nodes": [
+        10617792113,
+        10617792114,
+        10617792115,
+        10617792116,
+        10617792117,
+        10617792118,
+        10617792119,
+        10617792120,
+        10617792113
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Sipho's Jamaica"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7041194732,
+      "lat": 39.7302718,
+      "lon": -121.8585544
+    },
+    {
+      "type": "node",
+      "id": 7041194733,
+      "lat": 39.730188,
+      "lon": -121.8583314
+    },
+    {
+      "type": "node",
+      "id": 7041194734,
+      "lat": 39.7303138,
+      "lon": -121.8582515
+    },
+    {
+      "type": "node",
+      "id": 7041194735,
+      "lat": 39.7303975,
+      "lon": -121.8584745
+    },
+    {
+      "type": "node",
+      "id": 9657194338,
+      "lat": 39.7233148,
+      "lon": -121.8493154
+    },
+    {
+      "type": "node",
+      "id": 9657194339,
+      "lat": 39.7232215,
+      "lon": -121.8494529
+    },
+    {
+      "type": "node",
+      "id": 9657194340,
+      "lat": 39.7231515,
+      "lon": -121.8493718
+    },
+    {
+      "type": "node",
+      "id": 9657194341,
+      "lat": 39.7232448,
+      "lon": -121.8492356
+    },
+    {
+      "type": "node",
+      "id": 9657098966,
+      "lat": 39.7269471,
+      "lon": -121.8531262
+    },
+    {
+      "type": "node",
+      "id": 9657098967,
+      "lat": 39.7269056,
+      "lon": -121.8531256
+    },
+    {
+      "type": "node",
+      "id": 9657098968,
+      "lat": 39.7269048,
+      "lon": -121.8532095
+    },
+    {
+      "type": "node",
+      "id": 9657098969,
+      "lat": 39.7269463,
+      "lon": -121.8532101
+    },
+    {
+      "type": "node",
+      "id": 10134488675,
+      "lat": 39.7332785,
+      "lon": -121.8535924
+    },
+    {
+      "type": "node",
+      "id": 10134488676,
+      "lat": 39.7333308,
+      "lon": -121.8534665
+    },
+    {
+      "type": "node",
+      "id": 10134488677,
+      "lat": 39.7334455,
+      "lon": -121.8535471
+    },
+    {
+      "type": "node",
+      "id": 10134488678,
+      "lat": 39.7333931,
+      "lon": -121.853673
+    },
+    {
+      "type": "node",
+      "id": 10617105752,
+      "lat": 39.7396256,
+      "lon": -121.8466403
+    },
+    {
+      "type": "node",
+      "id": 10617105753,
+      "lat": 39.7397314,
+      "lon": -121.8463694
+    },
+    {
+      "type": "node",
+      "id": 10617105754,
+      "lat": 39.7396132,
+      "lon": -121.8462913
+    },
+    {
+      "type": "node",
+      "id": 10617105755,
+      "lat": 39.7395074,
+      "lon": -121.8465622
+    },
+    {
+      "type": "node",
+      "id": 4565385856,
+      "lat": 39.7557168,
+      "lon": -121.8599444
+    },
+    {
+      "type": "node",
+      "id": 4565385857,
+      "lat": 39.7557802,
+      "lon": -121.8598326
+    },
+    {
+      "type": "node",
+      "id": 4565385858,
+      "lat": 39.7556688,
+      "lon": -121.8597258
+    },
+    {
+      "type": "node",
+      "id": 4565385859,
+      "lat": 39.7556055,
+      "lon": -121.8598375
+    },
+    {
+      "type": "node",
+      "id": 4565396341,
+      "lat": 39.7552256,
+      "lon": -121.8591214
+    },
+    {
+      "type": "node",
+      "id": 4565396342,
+      "lat": 39.7550257,
+      "lon": -121.8594565
+    },
+    {
+      "type": "node",
+      "id": 4565396343,
+      "lat": 39.7548874,
+      "lon": -121.8593169
+    },
+    {
+      "type": "node",
+      "id": 4565396344,
+      "lat": 39.7550874,
+      "lon": -121.8589819
+    },
+    {
+      "type": "node",
+      "id": 10617136148,
+      "lat": 39.7535406,
+      "lon": -121.8587921
+    },
+    {
+      "type": "node",
+      "id": 10617136149,
+      "lat": 39.7533891,
+      "lon": -121.8586633
+    },
+    {
+      "type": "node",
+      "id": 10617136150,
+      "lat": 39.7534843,
+      "lon": -121.8584738
+    },
+    {
+      "type": "node",
+      "id": 10617136151,
+      "lat": 39.7536358,
+      "lon": -121.8586025
+    },
+    {
+      "type": "node",
+      "id": 4502010189,
+      "lat": 39.746411,
+      "lon": -121.8512266
+    },
+    {
+      "type": "node",
+      "id": 4502010191,
+      "lat": 39.7459442,
+      "lon": -121.8512616
+    },
+    {
+      "type": "node",
+      "id": 4502010192,
+      "lat": 39.7462907,
+      "lon": -121.8515068
+    },
+    {
+      "type": "node",
+      "id": 4502010190,
+      "lat": 39.7460734,
+      "lon": -121.8509861
+    },
+    {
+      "type": "node",
+      "id": 4565396351,
+      "lat": 39.7526649,
+      "lon": -121.8566004
+    },
+    {
+      "type": "node",
+      "id": 4565396352,
+      "lat": 39.7524999,
+      "lon": -121.8568686
+    },
+    {
+      "type": "node",
+      "id": 4565396353,
+      "lat": 39.7524278,
+      "lon": -121.8568069
+    },
+    {
+      "type": "node",
+      "id": 4565396354,
+      "lat": 39.7524999,
+      "lon": -121.8566835
+    },
+    {
+      "type": "node",
+      "id": 4565396355,
+      "lat": 39.7524835,
+      "lon": -121.8566674
+    },
+    {
+      "type": "node",
+      "id": 4565396356,
+      "lat": 39.7525845,
+      "lon": -121.8565065
+    },
+    {
+      "type": "node",
+      "id": 4565396357,
+      "lat": 39.7513513,
+      "lon": -121.8554658
+    },
+    {
+      "type": "node",
+      "id": 4565396358,
+      "lat": 39.7514586,
+      "lon": -121.8552754
+    },
+    {
+      "type": "node",
+      "id": 4565396359,
+      "lat": 39.7514132,
+      "lon": -121.8552217
+    },
+    {
+      "type": "node",
+      "id": 4565396360,
+      "lat": 39.75144,
+      "lon": -121.8551708
+    },
+    {
+      "type": "node",
+      "id": 4565396361,
+      "lat": 39.7514008,
+      "lon": -121.8551332
+    },
+    {
+      "type": "node",
+      "id": 4565396362,
+      "lat": 39.7514462,
+      "lon": -121.8550474
+    },
+    {
+      "type": "node",
+      "id": 4565396363,
+      "lat": 39.7513781,
+      "lon": -121.854983
+    },
+    {
+      "type": "node",
+      "id": 4565396364,
+      "lat": 39.7511761,
+      "lon": -121.8553049
+    },
+    {
+      "type": "node",
+      "id": 10127841533,
+      "lat": 39.7526131,
+      "lon": -121.8470559
+    },
+    {
+      "type": "node",
+      "id": 10127841534,
+      "lat": 39.7524515,
+      "lon": -121.8469553
+    },
+    {
+      "type": "node",
+      "id": 10127841535,
+      "lat": 39.7524608,
+      "lon": -121.84693
+    },
+    {
+      "type": "node",
+      "id": 10127841536,
+      "lat": 39.7524158,
+      "lon": -121.8469021
+    },
+    {
+      "type": "node",
+      "id": 10127841537,
+      "lat": 39.7524349,
+      "lon": -121.8467647
+    },
+    {
+      "type": "node",
+      "id": 10127841538,
+      "lat": 39.7524727,
+      "lon": -121.8466663
+    },
+    {
+      "type": "node",
+      "id": 10127841539,
+      "lat": 39.7526154,
+      "lon": -121.846759
+    },
+    {
+      "type": "node",
+      "id": 10127841540,
+      "lat": 39.7526029,
+      "lon": -121.8467914
+    },
+    {
+      "type": "node",
+      "id": 10127841541,
+      "lat": 39.7526903,
+      "lon": -121.8468481
+    },
+    {
+      "type": "node",
+      "id": 10127841542,
+      "lat": 39.7526698,
+      "lon": -121.8469016
+    },
+    {
+      "type": "node",
+      "id": 10127841543,
+      "lat": 39.752677,
+      "lon": -121.8469063
+    },
+    {
+      "type": "node",
+      "id": 10127841544,
+      "lat": 39.7526445,
+      "lon": -121.8469912
+    },
+    {
+      "type": "node",
+      "id": 10127841545,
+      "lat": 39.7526372,
+      "lon": -121.8469905
+    },
+    {
+      "type": "node",
+      "id": 6977478605,
+      "lat": 39.7754479,
+      "lon": -121.8808161
+    },
+    {
+      "type": "node",
+      "id": 6977478606,
+      "lat": 39.775414,
+      "lon": -121.8807801
+    },
+    {
+      "type": "node",
+      "id": 6977478607,
+      "lat": 39.7753876,
+      "lon": -121.880821
+    },
+    {
+      "type": "node",
+      "id": 6977478608,
+      "lat": 39.7752443,
+      "lon": -121.8806837
+    },
+    {
+      "type": "node",
+      "id": 6977478609,
+      "lat": 39.77514,
+      "lon": -121.8808603
+    },
+    {
+      "type": "node",
+      "id": 6977478610,
+      "lat": 39.775238,
+      "lon": -121.8809437
+    },
+    {
+      "type": "node",
+      "id": 6977478611,
+      "lat": 39.7752305,
+      "lon": -121.8809568
+    },
+    {
+      "type": "node",
+      "id": 6977478612,
+      "lat": 39.7753461,
+      "lon": -121.8810778
+    },
+    {
+      "type": "node",
+      "id": 6977478613,
+      "lat": 39.7754567,
+      "lon": -121.8808946
+    },
+    {
+      "type": "node",
+      "id": 6977478614,
+      "lat": 39.7754215,
+      "lon": -121.8808586
+    },
+    {
+      "type": "node",
+      "id": 7490609437,
+      "lat": 39.7725441,
+      "lon": -121.877642
+    },
+    {
+      "type": "node",
+      "id": 7490609438,
+      "lat": 39.7726118,
+      "lon": -121.8775229
+    },
+    {
+      "type": "node",
+      "id": 7490609439,
+      "lat": 39.7724662,
+      "lon": -121.877383
+    },
+    {
+      "type": "node",
+      "id": 7490609440,
+      "lat": 39.7723986,
+      "lon": -121.8775021
+    },
+    {
+      "type": "node",
+      "id": 10613250561,
+      "lat": 39.7712735,
+      "lon": -121.8761591
+    },
+    {
+      "type": "node",
+      "id": 10613250562,
+      "lat": 39.7711232,
+      "lon": -121.8760039
+    },
+    {
+      "type": "node",
+      "id": 10613250563,
+      "lat": 39.7710426,
+      "lon": -121.8761361
+    },
+    {
+      "type": "node",
+      "id": 10613250564,
+      "lat": 39.7711929,
+      "lon": -121.8762913
+    },
+    {
+      "type": "node",
+      "id": 6975078035,
+      "lat": 39.7588276,
+      "lon": -121.8639559
+    },
+    {
+      "type": "node",
+      "id": 6975078036,
+      "lat": 39.7586059,
+      "lon": -121.8637344
+    },
+    {
+      "type": "node",
+      "id": 6975078037,
+      "lat": 39.7584923,
+      "lon": -121.8639155
+    },
+    {
+      "type": "node",
+      "id": 6975078038,
+      "lat": 39.7584883,
+      "lon": -121.8639366
+    },
+    {
+      "type": "node",
+      "id": 6975078039,
+      "lat": 39.7585031,
+      "lon": -121.8639735
+    },
+    {
+      "type": "node",
+      "id": 6975078040,
+      "lat": 39.7585275,
+      "lon": -121.8639876
+    },
+    {
+      "type": "node",
+      "id": 6975078041,
+      "lat": 39.758564,
+      "lon": -121.8639894
+    },
+    {
+      "type": "node",
+      "id": 6975078042,
+      "lat": 39.7587194,
+      "lon": -121.8641336
+    },
+    {
+      "type": "node",
+      "id": 6571292884,
+      "lat": 39.759985,
+      "lon": -121.8449187
+    },
+    {
+      "type": "node",
+      "id": 6571337085,
+      "lat": 39.7596601,
+      "lon": -121.8449016
+    },
+    {
+      "type": "node",
+      "id": 6571337086,
+      "lat": 39.7596696,
+      "lon": -121.8445974
+    },
+    {
+      "type": "node",
+      "id": 6571337087,
+      "lat": 39.7599944,
+      "lon": -121.8446145
+    },
+    {
+      "type": "node",
+      "id": 10617792113,
+      "lat": 39.7160667,
+      "lon": -121.8435308
+    },
+    {
+      "type": "node",
+      "id": 10617792114,
+      "lat": 39.7160185,
+      "lon": -121.8433246
+    },
+    {
+      "type": "node",
+      "id": 10617792115,
+      "lat": 39.7159688,
+      "lon": -121.8433442
+    },
+    {
+      "type": "node",
+      "id": 10617792116,
+      "lat": 39.7159862,
+      "lon": -121.8434189
+    },
+    {
+      "type": "node",
+      "id": 10617792117,
+      "lat": 39.7159528,
+      "lon": -121.843432
+    },
+    {
+      "type": "node",
+      "id": 10617792118,
+      "lat": 39.7159663,
+      "lon": -121.8434896
+    },
+    {
+      "type": "node",
+      "id": 10617792119,
+      "lat": 39.7160008,
+      "lon": -121.843476
+    },
+    {
+      "type": "node",
+      "id": 10617792120,
+      "lat": 39.716018,
+      "lon": -121.8435499
+    },
+    {
+      "type": "node",
+      "id": 3060109589,
+      "lat": 39.724085,
+      "lon": -121.8437925
+    },
+    {
+      "type": "node",
+      "id": 3060109590,
+      "lat": 39.7239914,
+      "lon": -121.8436863
+    },
+    {
+      "type": "node",
+      "id": 3060109591,
+      "lat": 39.7242105,
+      "lon": -121.8433602
+    },
+    {
+      "type": "node",
+      "id": 3060109592,
+      "lat": 39.724304,
+      "lon": -121.8434665
+    },
+    {
+      "type": "node",
+      "id": 473366180,
+      "lat": 39.7302765,
+      "lon": -121.8421257
+    },
+    {
+      "type": "node",
+      "id": 473366181,
+      "lat": 39.7300637,
+      "lon": -121.8424458
+    },
+    {
+      "type": "node",
+      "id": 473366182,
+      "lat": 39.730037,
+      "lon": -121.8421339
+    },
+    {
+      "type": "node",
+      "id": 473366183,
+      "lat": 39.7301444,
+      "lon": -121.8419749
+    },
+    {
+      "type": "node",
+      "id": 2746822912,
+      "lat": 39.7307583,
+      "lon": -121.8399815
+    },
+    {
+      "type": "node",
+      "id": 2746823818,
+      "lat": 39.730954,
+      "lon": -121.8402059
+    },
+    {
+      "type": "node",
+      "id": 2746823819,
+      "lat": 39.7308417,
+      "lon": -121.8403715
+    },
+    {
+      "type": "node",
+      "id": 2746823820,
+      "lat": 39.730646,
+      "lon": -121.8401472
+    },
+    {
+      "type": "node",
+      "id": 2746826879,
+      "lat": 39.7304993,
+      "lon": -121.8407292
+    },
+    {
+      "type": "node",
+      "id": 2746826880,
+      "lat": 39.7303772,
+      "lon": -121.8409065
+    },
+    {
+      "type": "node",
+      "id": 2746827059,
+      "lat": 39.730304,
+      "lon": -121.8408233
+    },
+    {
+      "type": "node",
+      "id": 2746827060,
+      "lat": 39.7304284,
+      "lon": -121.8406446
+    },
+    {
+      "type": "node",
+      "id": 2746827563,
+      "lat": 39.7304242,
+      "lon": -121.8406503
+    },
+    {
+      "type": "node",
+      "id": 2746828949,
+      "lat": 39.7302313,
+      "lon": -121.8412138
+    },
+    {
+      "type": "node",
+      "id": 2746828951,
+      "lat": 39.7300547,
+      "lon": -121.8410167
+    },
+    {
+      "type": "node",
+      "id": 2746830183,
+      "lat": 39.7299847,
+      "lon": -121.8411189
+    },
+    {
+      "type": "node",
+      "id": 2746830184,
+      "lat": 39.7301612,
+      "lon": -121.8413231
+    },
+    {
+      "type": "node",
+      "id": 3029003879,
+      "lat": 39.7291294,
+      "lon": -121.8419475
+    },
+    {
+      "type": "node",
+      "id": 3029003880,
+      "lat": 39.7290804,
+      "lon": -121.842023
+    },
+    {
+      "type": "node",
+      "id": 3029003881,
+      "lat": 39.7288637,
+      "lon": -121.8417783
+    },
+    {
+      "type": "node",
+      "id": 3029003882,
+      "lat": 39.7289141,
+      "lon": -121.8417038
+    },
+    {
+      "type": "node",
+      "id": 3063874293,
+      "lat": 39.7286541,
+      "lon": -121.8419224
+    },
+    {
+      "type": "node",
+      "id": 3063874295,
+      "lat": 39.7284546,
+      "lon": -121.8418421
+    },
+    {
+      "type": "node",
+      "id": 4715537180,
+      "lat": 39.7290468,
+      "lon": -121.8400598
+    },
+    {
+      "type": "node",
+      "id": 4715537181,
+      "lat": 39.7289639,
+      "lon": -121.8400738
+    },
+    {
+      "type": "node",
+      "id": 4715537182,
+      "lat": 39.7290552,
+      "lon": -121.8400474
+    },
+    {
+      "type": "node",
+      "id": 4715537183,
+      "lat": 39.7289297,
+      "lon": -121.8400345
+    },
+    {
+      "type": "node",
+      "id": 4715537184,
+      "lat": 39.7289798,
+      "lon": -121.8399608
+    },
+    {
+      "type": "node",
+      "id": 4715537185,
+      "lat": 39.7289024,
+      "lon": -121.8401644
+    },
+    {
+      "type": "node",
+      "id": 4715537186,
+      "lat": 39.7291238,
+      "lon": -121.8401482
+    },
+    {
+      "type": "node",
+      "id": 4715537187,
+      "lat": 39.7290206,
+      "lon": -121.8403001
+    },
+    {
+      "type": "node",
+      "id": 4715538368,
+      "lat": 39.7297656,
+      "lon": -121.8409083
+    },
+    {
+      "type": "node",
+      "id": 4715538369,
+      "lat": 39.7296834,
+      "lon": -121.8408154
+    },
+    {
+      "type": "node",
+      "id": 4715538370,
+      "lat": 39.7297043,
+      "lon": -121.8407841
+    },
+    {
+      "type": "node",
+      "id": 4715538371,
+      "lat": 39.7297865,
+      "lon": -121.840877
+    },
+    {
+      "type": "node",
+      "id": 4715538372,
+      "lat": 39.7295175,
+      "lon": -121.8408592
+    },
+    {
+      "type": "node",
+      "id": 4715538373,
+      "lat": 39.7296055,
+      "lon": -121.8407274
+    },
+    {
+      "type": "node",
+      "id": 4715538374,
+      "lat": 39.7298029,
+      "lon": -121.8409504
+    },
+    {
+      "type": "node",
+      "id": 4715538375,
+      "lat": 39.7297148,
+      "lon": -121.8410822
+    },
+    {
+      "type": "node",
+      "id": 4810177950,
+      "lat": 39.7293934,
+      "lon": -121.8386855
+    },
+    {
+      "type": "node",
+      "id": 4810177951,
+      "lat": 39.7292432,
+      "lon": -121.8389129
+    },
+    {
+      "type": "node",
+      "id": 4810177952,
+      "lat": 39.7291092,
+      "lon": -121.8387599
+    },
+    {
+      "type": "node",
+      "id": 4810177953,
+      "lat": 39.7292582,
+      "lon": -121.8385384
+    },
+    {
+      "type": "node",
+      "id": 5284992227,
+      "lat": 39.7298632,
+      "lon": -121.842745
+    },
+    {
+      "type": "node",
+      "id": 5284992228,
+      "lat": 39.7297404,
+      "lon": -121.8426113
+    },
+    {
+      "type": "node",
+      "id": 5284992229,
+      "lat": 39.7296789,
+      "lon": -121.8427038
+    },
+    {
+      "type": "node",
+      "id": 5284992230,
+      "lat": 39.7298002,
+      "lon": -121.842836
+    },
+    {
+      "type": "node",
+      "id": 7035207881,
+      "lat": 39.7284858,
+      "lon": -121.8417969
+    },
+    {
+      "type": "node",
+      "id": 7035207882,
+      "lat": 39.7285157,
+      "lon": -121.8418314
+    },
+    {
+      "type": "node",
+      "id": 7035207883,
+      "lat": 39.7285426,
+      "lon": -121.8417951
+    },
+    {
+      "type": "node",
+      "id": 7035250190,
+      "lat": 39.7285976,
+      "lon": -121.8420041
+    },
+    {
+      "type": "node",
+      "id": 7035250248,
+      "lat": 39.7289593,
+      "lon": -121.8416387
+    },
+    {
+      "type": "node",
+      "id": 7035250249,
+      "lat": 39.7291708,
+      "lon": -121.8418867
+    },
+    {
+      "type": "node",
+      "id": 7035250263,
+      "lat": 39.7298387,
+      "lon": -121.8416287
+    },
+    {
+      "type": "node",
+      "id": 7035250266,
+      "lat": 39.7298698,
+      "lon": -121.8416628
+    },
+    {
+      "type": "node",
+      "id": 7035250267,
+      "lat": 39.7297637,
+      "lon": -121.8418219
+    },
+    {
+      "type": "node",
+      "id": 7035250268,
+      "lat": 39.7297319,
+      "lon": -121.841787
+    },
+    {
+      "type": "node",
+      "id": 7035250289,
+      "lat": 39.7299272,
+      "lon": -121.8422932
+    },
+    {
+      "type": "node",
+      "id": 7035511909,
+      "lat": 39.7300992,
+      "lon": -121.841246
+    },
+    {
+      "type": "node",
+      "id": 7035511911,
+      "lat": 39.7301235,
+      "lon": -121.8412784
+    },
+    {
+      "type": "node",
+      "id": 10613338927,
+      "lat": 39.7261423,
+      "lon": -121.8338002
+    },
+    {
+      "type": "node",
+      "id": 10613338928,
+      "lat": 39.7262703,
+      "lon": -121.8336129
+    },
+    {
+      "type": "node",
+      "id": 10613338929,
+      "lat": 39.7261962,
+      "lon": -121.8335273
+    },
+    {
+      "type": "node",
+      "id": 10613338930,
+      "lat": 39.7260682,
+      "lon": -121.8337146
+    },
+    {
+      "type": "node",
+      "id": 3029001258,
+      "lat": 39.7243602,
+      "lon": -121.8066519
+    },
+    {
+      "type": "node",
+      "id": 3029001259,
+      "lat": 39.7241747,
+      "lon": -121.8066505
+    },
+    {
+      "type": "node",
+      "id": 3029001260,
+      "lat": 39.7241762,
+      "lon": -121.8063358
+    },
+    {
+      "type": "node",
+      "id": 3029001261,
+      "lat": 39.7243448,
+      "lon": -121.806337
+    },
+    {
+      "type": "node",
+      "id": 3029002075,
+      "lat": 39.7245898,
+      "lon": -121.8112954
+    },
+    {
+      "type": "node",
+      "id": 4710989866,
+      "lat": 39.7243444,
+      "lon": -121.8064125
+    },
+    {
+      "type": "node",
+      "id": 4710989867,
+      "lat": 39.7243775,
+      "lon": -121.8064128
+    },
+    {
+      "type": "node",
+      "id": 4710989868,
+      "lat": 39.7243768,
+      "lon": -121.8065683
+    },
+    {
+      "type": "node",
+      "id": 4710989869,
+      "lat": 39.7243605,
+      "lon": -121.8065682
+    },
+    {
+      "type": "node",
+      "id": 4711994843,
+      "lat": 39.7244426,
+      "lon": -121.8109902
+    },
+    {
+      "type": "node",
+      "id": 988333084,
+      "lat": 39.7272682,
+      "lon": -121.8076336
+    },
+    {
+      "type": "node",
+      "id": 988333094,
+      "lat": 39.7273483,
+      "lon": -121.8073151
+    },
+    {
+      "type": "node",
+      "id": 988333095,
+      "lat": 39.7275721,
+      "lon": -121.8074102
+    },
+    {
+      "type": "node",
+      "id": 988333096,
+      "lat": 39.7274921,
+      "lon": -121.8077287
+    },
+    {
+      "type": "node",
+      "id": 988417532,
+      "lat": 39.7263617,
+      "lon": -121.8068388
+    },
+    {
+      "type": "node",
+      "id": 988417534,
+      "lat": 39.7261317,
+      "lon": -121.8068362
+    },
+    {
+      "type": "node",
+      "id": 988417536,
+      "lat": 39.7261341,
+      "lon": -121.8064744
+    },
+    {
+      "type": "node",
+      "id": 988417540,
+      "lat": 39.7256813,
+      "lon": -121.8064332
+    },
+    {
+      "type": "node",
+      "id": 988417541,
+      "lat": 39.725684,
+      "lon": -121.8068443
+    },
+    {
+      "type": "node",
+      "id": 988417542,
+      "lat": 39.7253968,
+      "lon": -121.8068475
+    },
+    {
+      "type": "node",
+      "id": 988417544,
+      "lat": 39.7253941,
+      "lon": -121.8064364
+    },
+    {
+      "type": "node",
+      "id": 1706392712,
+      "lat": 39.7263641,
+      "lon": -121.806477
+    },
+    {
+      "type": "node",
+      "id": 3029001262,
+      "lat": 39.7248721,
+      "lon": -121.8066434
+    },
+    {
+      "type": "node",
+      "id": 3029001263,
+      "lat": 39.7247278,
+      "lon": -121.8067227
+    },
+    {
+      "type": "node",
+      "id": 3029001264,
+      "lat": 39.7247269,
+      "lon": -121.8064641
+    },
+    {
+      "type": "node",
+      "id": 3029001265,
+      "lat": 39.7246961,
+      "lon": -121.8064642
+    },
+    {
+      "type": "node",
+      "id": 3029001266,
+      "lat": 39.7246957,
+      "lon": -121.8063415
+    },
+    {
+      "type": "node",
+      "id": 3029001267,
+      "lat": 39.7247272,
+      "lon": -121.8063413
+    },
+    {
+      "type": "node",
+      "id": 3029001268,
+      "lat": 39.7247271,
+      "lon": -121.8063169
+    },
+    {
+      "type": "node",
+      "id": 3029001269,
+      "lat": 39.7248709,
+      "lon": -121.806316
+    },
+    {
+      "type": "node",
+      "id": 3029002074,
+      "lat": 39.7248161,
+      "lon": -121.8111109
+    },
+    {
+      "type": "node",
+      "id": 3060046875,
+      "lat": 39.7282615,
+      "lon": -121.8086731
+    },
+    {
+      "type": "node",
+      "id": 3060046876,
+      "lat": 39.7281687,
+      "lon": -121.8084726
+    },
+    {
+      "type": "node",
+      "id": 3060046881,
+      "lat": 39.7279904,
+      "lon": -121.8086121
+    },
+    {
+      "type": "node",
+      "id": 3060046885,
+      "lat": 39.7288465,
+      "lon": -121.8106044
+    },
+    {
+      "type": "node",
+      "id": 3060046886,
+      "lat": 39.7289795,
+      "lon": -121.8103184
+    },
+    {
+      "type": "node",
+      "id": 3060046889,
+      "lat": 39.7288077,
+      "lon": -121.8101832
+    },
+    {
+      "type": "node",
+      "id": 3060046894,
+      "lat": 39.7286746,
+      "lon": -121.8104691
+    },
+    {
+      "type": "node",
+      "id": 4710989844,
+      "lat": 39.7247986,
+      "lon": -121.8067222
+    },
+    {
+      "type": "node",
+      "id": 4710989845,
+      "lat": 39.7247983,
+      "lon": -121.8066438
+    },
+    {
+      "type": "node",
+      "id": 4711082962,
+      "lat": 39.7256223,
+      "lon": -121.8064339
+    },
+    {
+      "type": "node",
+      "id": 4711082963,
+      "lat": 39.7254562,
+      "lon": -121.8064357
+    },
+    {
+      "type": "node",
+      "id": 4711082964,
+      "lat": 39.7254561,
+      "lon": -121.8064102
+    },
+    {
+      "type": "node",
+      "id": 4711082965,
+      "lat": 39.7256221,
+      "lon": -121.8064083
+    },
+    {
+      "type": "node",
+      "id": 4711994842,
+      "lat": 39.7246689,
+      "lon": -121.8108056
+    },
+    {
+      "type": "node",
+      "id": 4711994888,
+      "lat": 39.7287627,
+      "lon": -121.81028
+    },
+    {
+      "type": "node",
+      "id": 4711994889,
+      "lat": 39.7287361,
+      "lon": -121.810337
+    },
+    {
+      "type": "node",
+      "id": 4711994890,
+      "lat": 39.7287333,
+      "lon": -121.8102568
+    },
+    {
+      "type": "node",
+      "id": 4711994891,
+      "lat": 39.7287067,
+      "lon": -121.8103139
+    },
+    {
+      "type": "node",
+      "id": 4711994930,
+      "lat": 39.7280854,
+      "lon": -121.8085378
+    },
+    {
+      "type": "node",
+      "id": 4711994931,
+      "lat": 39.7280356,
+      "lon": -121.8085767
+    },
+    {
+      "type": "node",
+      "id": 4711994932,
+      "lat": 39.7280231,
+      "lon": -121.8085498
+    },
+    {
+      "type": "node",
+      "id": 4711994933,
+      "lat": 39.7280729,
+      "lon": -121.8085108
+    },
+    {
+      "type": "node",
+      "id": 4711994934,
+      "lat": 39.7280998,
+      "lon": -121.8088354
+    },
+    {
+      "type": "node",
+      "id": 4711994935,
+      "lat": 39.7281922,
+      "lon": -121.8087631
+    },
+    {
+      "type": "node",
+      "id": 4711994936,
+      "lat": 39.7282231,
+      "lon": -121.8087031
+    },
+    {
+      "type": "node",
+      "id": 4711994937,
+      "lat": 39.7280375,
+      "lon": -121.8087138
+    },
+    {
+      "type": "node",
+      "id": 4711994938,
+      "lat": 39.7281058,
+      "lon": -121.8088482
+    },
+    {
+      "type": "node",
+      "id": 4711994939,
+      "lat": 39.7281981,
+      "lon": -121.808776
+    },
+    {
+      "type": "node",
+      "id": 4711994940,
+      "lat": 39.7280729,
+      "lon": -121.8088564
+    },
+    {
+      "type": "node",
+      "id": 4711994941,
+      "lat": 39.7282352,
+      "lon": -121.8087294
+    },
+    {
+      "type": "node",
+      "id": 4711994942,
+      "lat": 39.728015,
+      "lon": -121.8087314
+    },
+    {
+      "type": "node",
+      "id": 988333165,
+      "lat": 39.7274629,
+      "lon": -121.8021292
+    },
+    {
+      "type": "node",
+      "id": 988333167,
+      "lat": 39.7274638,
+      "lon": -121.8017675
+    },
+    {
+      "type": "node",
+      "id": 988333169,
+      "lat": 39.7276703,
+      "lon": -121.8017683
+    },
+    {
+      "type": "node",
+      "id": 988333173,
+      "lat": 39.7276695,
+      "lon": -121.8021301
+    },
+    {
+      "type": "node",
+      "id": 4565430488,
+      "lat": 39.7333035,
+      "lon": -121.8378293
+    },
+    {
+      "type": "node",
+      "id": 4565430989,
+      "lat": 39.7333062,
+      "lon": -121.8376494
+    },
+    {
+      "type": "node",
+      "id": 4565430990,
+      "lat": 39.7331512,
+      "lon": -121.8376312
+    },
+    {
+      "type": "node",
+      "id": 4565430991,
+      "lat": 39.7331201,
+      "lon": -121.8377121
+    },
+    {
+      "type": "node",
+      "id": 4565430992,
+      "lat": 39.7331457,
+      "lon": -121.8378394
+    },
+    {
+      "type": "node",
+      "id": 7707748591,
+      "lat": 39.7332919,
+      "lon": -121.8378404
+    },
+    {
+      "type": "node",
+      "id": 7707748592,
+      "lat": 39.7332956,
+      "lon": -121.8376376
+    },
+    {
+      "type": "node",
+      "id": 7707748593,
+      "lat": 39.7332027,
+      "lon": -121.8376346
+    },
+    {
+      "type": "node",
+      "id": 7707748594,
+      "lat": 39.733179,
+      "lon": -121.8376244
+    },
+    {
+      "type": "node",
+      "id": 7707748595,
+      "lat": 39.7331338,
+      "lon": -121.837647
+    },
+    {
+      "type": "node",
+      "id": 7707748596,
+      "lat": 39.7331223,
+      "lon": -121.8376737
+    },
+    {
+      "type": "node",
+      "id": 7707748597,
+      "lat": 39.7331194,
+      "lon": -121.837787
+    },
+    {
+      "type": "node",
+      "id": 7707748598,
+      "lat": 39.733123,
+      "lon": -121.8378078
+    },
+    {
+      "type": "node",
+      "id": 7707748599,
+      "lat": 39.733136,
+      "lon": -121.8378267
+    },
+    {
+      "type": "node",
+      "id": 7707748600,
+      "lat": 39.7331672,
+      "lon": -121.8378474
+    },
+    {
+      "type": "node",
+      "id": 7707748601,
+      "lat": 39.7331857,
+      "lon": -121.8378462
+    },
+    {
+      "type": "node",
+      "id": 7707748602,
+      "lat": 39.7331991,
+      "lon": -121.8378382
+    },
+    {
+      "type": "node",
+      "id": 7707748603,
+      "lat": 39.7333,
+      "lon": -121.8378365
+    },
+    {
+      "type": "node",
+      "id": 7707748604,
+      "lat": 39.7333017,
+      "lon": -121.8376405
+    },
+    {
+      "type": "node",
+      "id": 4565430474,
+      "lat": 39.7397577,
+      "lon": -121.8358982
+    },
+    {
+      "type": "node",
+      "id": 4565430475,
+      "lat": 39.7398402,
+      "lon": -121.8356917
+    },
+    {
+      "type": "node",
+      "id": 4565430476,
+      "lat": 39.7395081,
+      "lon": -121.8354771
+    },
+    {
+      "type": "node",
+      "id": 4565430477,
+      "lat": 39.7394235,
+      "lon": -121.8356943
+    },
+    {
+      "type": "node",
+      "id": 4565430454,
+      "lat": 39.7470383,
+      "lon": -121.8429127
+    },
+    {
+      "type": "node",
+      "id": 4565430455,
+      "lat": 39.7471757,
+      "lon": -121.8425694
+    },
+    {
+      "type": "node",
+      "id": 4565430456,
+      "lat": 39.7470492,
+      "lon": -121.8424685
+    },
+    {
+      "type": "node",
+      "id": 4565430457,
+      "lat": 39.7469077,
+      "lon": -121.8428242
+    }
+  ]
+}
