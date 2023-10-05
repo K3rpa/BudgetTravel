@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'django.contrib.gis',
+    'rest_framework_gis',
+    'rest_framework',
     'shops',
     'restaurants',
 ]
