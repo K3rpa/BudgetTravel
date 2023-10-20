@@ -1,0 +1,1696 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.5 4133829e",
+  "osm3s": {
+    "timestamp_osm_base": "2023-10-20T03:39:54Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 282360641,
+      "lat": 41.8887978,
+      "lon": -87.8010009,
+      "tags": {
+        "addr:city": "Oak Park",
+        "addr:housenumber": "1010",
+        "addr:postcode": "60301",
+        "addr:state": "IL",
+        "addr:street": "Lake Street",
+        "information": "office",
+        "name": "Oak Park Visitors Center",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368068507,
+      "lat": 41.6942725,
+      "lon": -87.6086568,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "11057",
+        "addr:postcode": "60628",
+        "addr:state": "IL",
+        "addr:street": "South Cottage Grove Avenue",
+        "ele": "181",
+        "gnis:county_name": "Cook",
+        "gnis:feature_id": "1832773",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "information": "office",
+        "name": "Pullman National Monument Visitors Center",
+        "operator": "National Parks Service",
+        "source": "USGS Geonames",
+        "tourism": "information",
+        "wikidata": "Q7259479",
+        "wikipedia": "en:Pullman National Historical Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1618326381,
+      "lat": 41.8793184,
+      "lon": -87.631192,
+      "tags": {
+        "addr:housenumber": "111",
+        "addr:street": "West Adams Street",
+        "name": "Club Quarters Central Loop Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1665788092,
+      "lat": 41.8978228,
+      "lon": -87.6222827,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "160",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "East Pearson Street",
+        "addr:street:name": "Michigan",
+        "addr:street:prefix": "North",
+        "addr:street:type": "Avenue",
+        "air_conditioning": "yes",
+        "bar": "yes",
+        "brand": "The Ritz-Carlton",
+        "brand:wikidata": "Q782200",
+        "brand:wikipedia": "en:The Ritz-Carlton Hotel Company",
+        "internet_access": "yes",
+        "internet_access:fee": "yes",
+        "name": "The Ritz-Carlton Chicago",
+        "phone": "1 312 266 1000",
+        "rooms": "434",
+        "smoking": "no",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.ritzcarlton.com/en/hotels/chicago"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1666768375,
+      "lat": 41.8911493,
+      "lon": -87.6278016,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "505",
+        "addr:postcode": "60654",
+        "addr:state": "IL",
+        "addr:street": "North State Street",
+        "air_conditioning": "yes",
+        "bar": "yes",
+        "brand": "Royal Sonesta",
+        "email": "FrontDesk_RSRiverNorth@sonesta.com",
+        "fax": "+ 1 312 755 9713",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "The Royal Sonesta Chicago River North",
+        "phone": "+1 312 755 9703",
+        "rooms": "261",
+        "smoking": "no",
+        "stars": "4.5",
+        "tourism": "hotel",
+        "website": "https://www.sonesta.com/royal-sonesta/il/chicago/royal-sonesta-chicago-river-north/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1799777867,
+      "lat": 42.0347652,
+      "lon": -87.6797105,
+      "tags": {
+        "addr:city": "Evanston",
+        "addr:housenumber": "910",
+        "addr:postcode": "60202",
+        "addr:state": "IL",
+        "addr:street": "Chicago Avenue",
+        "name": "American Toby Jug Museum",
+        "shop": "department_store",
+        "tourism": "museum",
+        "website": "https://www.tobyjugmuseum.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2219227941,
+      "lat": 41.8882976,
+      "lon": -87.6379499,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "350",
+        "addr:postcode": "60654",
+        "addr:state": "IL",
+        "addr:street": "West Wolf Point Plaza",
+        "brand": "Holiday Inn",
+        "brand:wikidata": "Q2717882",
+        "brand:wikipedia": "en:Holiday Inn",
+        "name": "Holiday Inn Chicago Mart Plaza",
+        "note": "Floors 15-21",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2250380156,
+      "lat": 41.89902,
+      "lon": -87.6231421,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:floor": "94",
+        "addr:housenumber": "875",
+        "addr:street": "North Michigan Avenue",
+        "addr:unit": "9400",
+        "level": "94",
+        "name": "360 Chicago",
+        "toilets:wheelchair": "yes",
+        "tourism": "viewpoint",
+        "website": "https://360chicago.com",
+        "wheelchair": "yes",
+        "wikidata": "Q217727",
+        "wikipedia": "en:John Hancock Center"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2295218499,
+      "lat": 42.0416181,
+      "lon": -87.6807961,
+      "tags": {
+        "addr:city": "Evanston",
+        "addr:housenumber": "1310",
+        "addr:postcode": "60201",
+        "addr:street": "Chicago Avenue",
+        "addr:street:name": "Chicago",
+        "addr:street:type": "Avenue",
+        "name": "Perspective Group and Photography Gallery",
+        "tourism": "gallery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2295218503,
+      "lat": 42.0416585,
+      "lon": -87.6807957,
+      "tags": {
+        "addr:city": "Evanston",
+        "addr:housenumber": "1310",
+        "addr:postcode": "60201",
+        "addr:street": "Chicago Avenue",
+        "addr:street:name": "Chicago",
+        "addr:street:type": "Avenue",
+        "name": "Folkworks Gallery",
+        "tourism": "gallery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2717350122,
+      "lat": 41.945893,
+      "lon": -87.6544931,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "3514",
+        "addr:postcode": "60657",
+        "addr:street": "North Sheffield Avenue",
+        "name": "Wrigley Hostel",
+        "phone": "+1-773-598-4471",
+        "tourism": "hostel",
+        "website": "https://www.wrigleyhostel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2721192348,
+      "lat": 41.8902477,
+      "lon": -87.62768,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "30",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "East Hubbard Street",
+        "brand": "Courtyard",
+        "brand:wikidata": "Q1053170",
+        "brand:wikipedia": "en:Courtyard by Marriott",
+        "internet_access": "wlan",
+        "name": "Courtyard Chicago Downtown/River North",
+        "official_name": "Courtyard by Marriott",
+        "tourism": "hotel",
+        "website": "https://www.marriott.com/hotels/travel/chiwb-courtyard-chicago-downtown-river-north/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2979738790,
+      "lat": 41.87833,
+      "lon": -87.632568,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "230",
+        "addr:postcode": "60604",
+        "addr:state": "IL",
+        "addr:street": "South LaSalle Street",
+        "fee": "no",
+        "name": "Money Museum",
+        "opening_hours": "Mo-Fr 08:30-17:00",
+        "operator": "Federal Reserve Bank of Chicago",
+        "operator:type": "government",
+        "tourism": "museum",
+        "website": "https://www.chicagofed.org/education/money-museum/",
+        "wikidata": "Q965251",
+        "wikipedia": "en:Federal Reserve Bank of Chicago"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3209044840,
+      "lat": 41.9199857,
+      "lon": -87.6568721,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housename": "Garden level",
+        "addr:housenumber": "2101",
+        "addr:postcode": "60614",
+        "addr:state": "IL",
+        "addr:street": "North Clifton Avenue",
+        "guest_house": "bed_and_breakfast",
+        "name": "City Scene Bed & Breakfast",
+        "phone": "+1-773-549-1743",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3572698797,
+      "lat": 41.8884239,
+      "lon": -87.6275117,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "330",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "North Wabash Avenue",
+        "brand": "Langham Hotels & Resorts",
+        "brand:wikidata": "Q8423751",
+        "name": "The Langham, Chicago",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3572913469,
+      "lat": 41.8884954,
+      "lon": -87.6246857,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "376",
+        "addr:postcode": "60601",
+        "addr:state": "IL",
+        "addr:street": "North Michigan Avenue",
+        "museum": "local",
+        "name": "McCormick Bridgehouse & Chicago River Museum",
+        "tourism": "museum",
+        "website": "https://www.bridgehousemuseum.org/",
+        "wikidata": "Q1928112",
+        "wikipedia": "en:DuSable Bridge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3574822039,
+      "lat": 41.7187453,
+      "lon": -87.6678158,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "9625",
+        "addr:postcode": "60643",
+        "addr:state": "IL",
+        "addr:street": "South Longwood Drive",
+        "museum": "art",
+        "name": "Vanderpoel Art Museum",
+        "opening_hours": "Tu,Th 13:00-16:00; Sa 10:00-12:00",
+        "operator": "Vanderpoel Art Association",
+        "phone": "+1-773-779-0007",
+        "tourism": "museum",
+        "website": "https://vanderpoelartmuseum.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575105694,
+      "lat": 41.9030061,
+      "lon": -87.6709623,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:country": "US",
+        "addr:housenumber": "1659",
+        "addr:postcode": "60622",
+        "addr:state": "IL",
+        "addr:street": "West Division Street",
+        "name": "Holiday Jones",
+        "smoking": "no",
+        "tourism": "hostel",
+        "website": "https://www.holidayjones.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575515095,
+      "lat": 41.9023107,
+      "lon": -87.703187,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "3015",
+        "addr:postcode": "60622",
+        "addr:state": "IL",
+        "addr:street": "West Division Street",
+        "museum": "art",
+        "name": "National Museum of Puerto Rican Arts & Culture",
+        "opening_hours": "Tu-Fr 10:00-17:00; Sa 10:00-14:00",
+        "phone": "+1-773-486-8345",
+        "tourism": "museum",
+        "website": "https://nmprac.org/",
+        "wikidata": "Q15228725",
+        "wikipedia": "en:National Museum of Puerto Rican Arts and Culture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3629670300,
+      "lat": 41.789142,
+      "lon": -87.60102,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "5811",
+        "addr:postcode": "60637",
+        "addr:state": "IL",
+        "addr:street": "South Ellis Avenue",
+        "name": "The Renaissance Society",
+        "tourism": "museum",
+        "website": "http://www.renaissancesociety.org/",
+        "wikidata": "Q2143255"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3652936567,
+      "lat": 41.8996737,
+      "lon": -87.66105,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "984",
+        "addr:postcode": "60642",
+        "addr:state": "IL",
+        "addr:street": "North Milwaukee Avenue",
+        "museum": "history",
+        "name": "Polish Museum of America",
+        "tourism": "museum",
+        "website": "https://www.polishmuseumofamerica.org/",
+        "wikidata": "Q3394265",
+        "wikipedia": "en:Polish Museum of America"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3660898208,
+      "lat": 41.897316,
+      "lon": -87.6250667,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "820",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "North Michigan Avenue",
+        "museum": "art",
+        "name": "Loyola University Museum of Art",
+        "tourism": "museum",
+        "website": "https://www.luc.edu/luma/",
+        "wikidata": "Q6694613",
+        "wikipedia": "en:Loyola University Museum of Art"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3785693441,
+      "lat": 41.9835968,
+      "lon": -87.7959941,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "5624",
+        "addr:postcode": "60631",
+        "addr:state": "IL",
+        "addr:street": "North Newark Avenue",
+        "museum": "local",
+        "name": "Norwood Park Historical Society",
+        "tourism": "museum",
+        "website": "https://www.norwoodparkhistoricalsociety.org"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3988653236,
+      "lat": 41.9543845,
+      "lon": -87.7486367,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "4041",
+        "addr:postcode": "60641",
+        "addr:state": "IL",
+        "addr:street": "North Milwaukee Avenue",
+        "museum": "art",
+        "name": "National Veterans Art Museum",
+        "tourism": "museum",
+        "website": "https://www.nvam.org/",
+        "wikidata": "Q6979302",
+        "wikipedia": "en:National Veterans Art Museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012150293,
+      "lat": 41.9921847,
+      "lon": -87.8639965,
+      "tags": {
+        "addr:city": "Rosemont",
+        "addr:housenumber": "9513",
+        "addr:postcode": "60018",
+        "addr:state": "IL",
+        "addr:street": "West Higgins Road",
+        "museum": "art",
+        "name": "Museum of Hummels",
+        "source": "http://www.rosemont.com/community/museum-of-hummels/",
+        "tourism": "museum",
+        "website": "https://rosemont.com/museum-of-hummels/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4318745248,
+      "lat": 41.8758397,
+      "lon": -87.6265313,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "24",
+        "addr:postcode": "60605",
+        "addr:state": "IL",
+        "addr:street": "East Ida B. Wells Drive",
+        "air_conditioning": "yes",
+        "alt_name": "The J. Ira and Nicki Harris Family Hostel",
+        "guest_house": "hostel",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "internet_access:ssid": "HI-Chicago",
+        "name": "HI Chicago",
+        "phone": "+1-312-360-0300",
+        "smoking": "no",
+        "tourism": "hostel",
+        "website": "https://www.hichicago.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4541428858,
+      "lat": 41.9171899,
+      "lon": -87.7122707,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "3407",
+        "addr:postcode": "60647",
+        "addr:state": "IL",
+        "addr:street": "West Armitage Avenue",
+        "name": "Busy Beaver Button Museum",
+        "opening_hours": "Mo-Fr 10:00-16:00",
+        "tourism": "museum",
+        "website": "https://www.buttonmuseum.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4588287676,
+      "lat": 41.8758396,
+      "lon": -87.6326786,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "425",
+        "addr:postcode": "60605",
+        "addr:state": "IL",
+        "addr:street": "South Financial Place",
+        "name": "The Buckingham Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4839412823,
+      "lat": 41.8805793,
+      "lon": -87.6304123,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "79",
+        "addr:postcode": "60603",
+        "addr:state": "IL",
+        "addr:street": "West Monroe Street",
+        "name": "Weather Bell",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4850707744,
+      "lat": 41.8935645,
+      "lon": -87.6216316,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "228",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "East Ontario Street",
+        "brand": "Autograph Collection",
+        "name": "Hotel EMC2",
+        "operator": "Smashotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4897474887,
+      "lat": 41.9544996,
+      "lon": -87.6634025,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "1332",
+        "addr:state": "IL",
+        "addr:street": "West Irving Park Road",
+        "artwork_type": "bust",
+        "historic": "memorial",
+        "inscription": "National hero of the Philippines arrived in Chicago, Illinois on May 11, 1888 at 8:14 a.m. He visited places of interest and left the city at 8:25 p.m.",
+        "memorial": "plaque",
+        "name": "Dr. Jose Rizal (1861–1896)",
+        "start_date": "1993",
+        "tourism": "artwork",
+        "wikidata": "Q30133244"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4971240031,
+      "lat": 41.8904145,
+      "lon": -87.7941083,
+      "tags": {
+        "addr:city": "Oak Park",
+        "addr:housenumber": "200",
+        "addr:postcode": "60302",
+        "addr:state": "IL",
+        "addr:street": "North Oak Park Avenue",
+        "museum": "person",
+        "name": "Ernest Hemmingway Foundation",
+        "name:etymology:wikidata": "en:Ernest Hemingway",
+        "name:etymology:wikipedia": "Q23434",
+        "operator": "Earnest Hemmingway Foundation",
+        "tourism": "museum",
+        "website": "https://www.hemingwaybirthplace.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5062541126,
+      "lat": 41.8914341,
+      "lon": -87.6013434,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "700",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "East Grand Avenue",
+        "museum": "art",
+        "name": "Dreihaus Gallery of Stained Glass",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5169949885,
+      "lat": 41.8855608,
+      "lon": -87.6249909,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "180",
+        "addr:postcode": "60601",
+        "addr:state": "IL",
+        "addr:street": "North Michigan Avenue",
+        "name": "American Writers Museum",
+        "phone": "+1 312.374.8790",
+        "tourism": "museum",
+        "tourism_1": "attraction",
+        "website": "https://americanwritersmuseum.org/",
+        "wikidata": "Q19864096"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469965285,
+      "lat": 41.6631421,
+      "lon": -87.7444902,
+      "tags": {
+        "addr:city": "Alsip",
+        "addr:housenumber": "5000",
+        "addr:postcode": "60803",
+        "addr:state": "IL",
+        "addr:street": "West 127th Street",
+        "brand": "DoubleTree",
+        "brand:wikidata": "Q2504643",
+        "brand:wikipedia": "en:DoubleTree",
+        "name": "DoubleTree by Hilton Hotel Chicago - Alsip",
+        "official_name": "DoubleTree by Hilton",
+        "phone": "+1-708-371-7300",
+        "tourism": "hotel",
+        "website": "https://doubletree3.hilton.com/en/hotels/illinois/doubletree-by-hilton-hotel-chicago-alsip-CHIASDT/index.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5616052668,
+      "lat": 41.8837478,
+      "lon": -87.643003,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "116",
+        "addr:postcode": "60661",
+        "addr:state": "IL",
+        "addr:street": "North Jefferson Street",
+        "alt_name": "Hampton Inn",
+        "brand": "Hampton",
+        "brand:wikidata": "Q5646230",
+        "brand:wikipedia": "en:Hampton by Hilton",
+        "fax": "+1-312-6480002",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Hampton Inn Chicago Downtown West Loop",
+        "official_name": "Hampton by Hilton",
+        "operator": "Hilton",
+        "phone": "+1-312-6480000",
+        "smoking": "no",
+        "tourism": "hotel",
+        "website": "https://hamptoninn3.hilton.com/en/hotels/illinois/hampton-inn-chicago-downtown-west-loop-CHIWXHX/index.html",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5794649453,
+      "lat": 41.8877965,
+      "lon": -87.706096,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "345",
+        "addr:postcode": "60624",
+        "addr:state": "IL",
+        "addr:street": "North Kedzie Avenue",
+        "name": "345 Gallery",
+        "phone": "+1-872-444-5544",
+        "tourism": "gallery",
+        "website": "https://www.345artgallery.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5838811819,
+      "lat": 42.0015639,
+      "lon": -87.6619742,
+      "tags": {
+        "addr:housenumber": "1224",
+        "addr:street": "West Loyola Avenue",
+        "name": "Roman Susan",
+        "phone": "+1 773 270 1224",
+        "tourism": "gallery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5905978457,
+      "lat": 41.8278837,
+      "lon": -87.82001,
+      "tags": {
+        "addr:city": "Riverside",
+        "addr:housenumber": "10",
+        "addr:postcode": "60546",
+        "addr:state": "IL",
+        "addr:street": "Pine Avenue",
+        "name": "Riverside Historical Museum",
+        "opening_hours": "Sa 10:00-14:00",
+        "operator": "Riverside Historical Commission",
+        "tourism": "museum",
+        "website": "http://www.riversidemuseum.net"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5910546385,
+      "lat": 41.8977676,
+      "lon": -87.6237198,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "835",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "North Michigan Avenue",
+        "museum": "art",
+        "name": "The Art of Dr.Seuss",
+        "tourism": "museum",
+        "website": "https://www.experienceseuss.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6125250112,
+      "lat": 41.8580724,
+      "lon": -87.6569435,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "1210",
+        "addr:postcode": "60608",
+        "addr:state": "IL",
+        "addr:street": "West 18th Street",
+        "name": "Prospectus Art Gallery",
+        "phone": "+1 312-733-6132",
+        "tourism": "gallery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6127045258,
+      "lat": 41.8039189,
+      "lon": -87.7220744,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "4944",
+        "addr:postcode": "60632",
+        "addr:state": "IL",
+        "addr:street": "South Archer Avenue",
+        "brand": "Carlton Inn",
+        "name": "Carlton Inn Midway",
+        "tourism": "hotel",
+        "wikidata": "Q28219817",
+        "wikipedia": "en:Carlton Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6154659397,
+      "lat": 41.7515236,
+      "lon": -87.602044,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "914",
+        "addr:postcode": "60619",
+        "addr:state": "IL",
+        "addr:street": "East 79th Street",
+        "name": "East of the Ryan",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6179056467,
+      "lat": 41.8846303,
+      "lon": -87.6253558,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "72",
+        "addr:postcode": "60601",
+        "addr:state": "IL",
+        "addr:street": "East Randolph Street",
+        "fee": "no",
+        "name": "Expo 72",
+        "opening_hours": "24/7",
+        "operator": "Chicago Department of Cultural Affairs and Special Events (DCASE)",
+        "tourism": "gallery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6332297187,
+      "lat": 41.8095479,
+      "lon": -87.6148147,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "436",
+        "addr:postcode": "60615",
+        "addr:state": "IL",
+        "addr:street": "East 47th Street",
+        "name": "Gallery Guichard",
+        "phone": "+1-(773) 791-7003",
+        "tourism": "gallery",
+        "website": "https://www.galleryguichard.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6415272786,
+      "lat": 41.8097452,
+      "lon": -87.9009152,
+      "tags": {
+        "addr:city": "Western Springs",
+        "addr:housenumber": "914",
+        "addr:postcode": "60558",
+        "addr:state": "IL",
+        "addr:street": "Hillgrove Avenue",
+        "museum": "history",
+        "name": "Western Springs Water Tower",
+        "tourism": "museum",
+        "website": "https://westernspringshistory.org/",
+        "wikidata": "Q7988324",
+        "wikipedia": "en:Western Springs Water Tower"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6423952898,
+      "lat": 41.8880131,
+      "lon": -87.6236228,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "111",
+        "addr:postcode": "60601",
+        "addr:state": "IL",
+        "addr:street": "East Wacker Drive",
+        "fee": "yes",
+        "museum": "local",
+        "name": "Chicago Architecture Center",
+        "opening_hours": "Su-Tu 10:00-17:00; We-Sa 10:00-19:00",
+        "operator": "Chicago Architecture Foundation",
+        "operator:type": "public",
+        "tourism": "museum",
+        "url": "http://www.architecture.org/",
+        "website": "http://www.architecture.org",
+        "wheelchair": "yes",
+        "wikidata": "Q2963292",
+        "wikipedia": "en:Chicago Architecture Center"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6477619616,
+      "lat": 41.799589,
+      "lon": -87.5916853,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "5285",
+        "addr:postcode": "60615",
+        "addr:state": "IL",
+        "addr:street": "South Dorchester Avenue",
+        "historic": "memorial",
+        "material": "stone",
+        "memorial": "plaque",
+        "name": "Obama Kissing Rock",
+        "subject:wikidata": "Q76",
+        "subject:wikimedia_commons": "File:President_Barack_Obama.jpg",
+        "subject:wikipedia": "en:Barack Obama",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6538249097,
+      "lat": 41.8959004,
+      "lon": -87.6702867,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "1711",
+        "addr:postcode": "60622",
+        "addr:state": "IL",
+        "addr:street": "West Chicago Avenue",
+        "name": "Rhona Hoffman Gallery",
+        "tourism": "gallery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6776061424,
+      "lat": 41.8959198,
+      "lon": -87.6702118,
+      "tags": {
+        "addr:housenumber": "1709",
+        "addr:street": "West Chicago Avenue",
+        "name": "Western Exhibitions",
+        "tourism": "gallery",
+        "website": "https://westernexhibitions.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6776086443,
+      "lat": 41.8959198,
+      "lon": -87.6702118,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "1711",
+        "addr:postcode": "60622",
+        "addr:state": "IL",
+        "addr:street": "West Chicago Avenue",
+        "name": "Rhona Hoffman Gallery",
+        "phone": "+1 312 455 1990",
+        "tourism": "gallery",
+        "website": "https://www.rhoffmangallery.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6872477634,
+      "lat": 41.9316462,
+      "lon": -87.7113805,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "2775",
+        "addr:postcode": "60647",
+        "addr:state": "IL",
+        "addr:street": "North Milwaukee Avenue",
+        "name": "All Star Press",
+        "tourism": "gallery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7118225610,
+      "lat": 41.9030806,
+      "lon": -87.66633,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "1180",
+        "addr:postcode": "60642",
+        "addr:state": "IL",
+        "addr:street": "North Milwaukee Avenue",
+        "name": "Young Chicago Authors",
+        "tourism": "gallery",
+        "website": "https://youngchicagoauthors.org"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7161622326,
+      "lat": 41.9555453,
+      "lon": -87.8599702,
+      "tags": {
+        "addr:city": "Schiller Park",
+        "addr:housenumber": "4200",
+        "addr:postcode": "60176",
+        "addr:state": "IL",
+        "addr:street": "Des Plaines River Road",
+        "brand": "Comfort Suites",
+        "brand:wikidata": "Q55525150",
+        "brand:wikipedia": "en:Choice Hotels International",
+        "name": "Comfort Suites Chicago O'Hare Airport",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7217378704,
+      "lat": 41.655827,
+      "lon": -87.7472173,
+      "tags": {
+        "addr:city": "Crestwood",
+        "addr:housenumber": "5051",
+        "addr:postcode": "60445",
+        "addr:state": "IL",
+        "addr:street": "Cal Sag Road",
+        "name": "In the Game - Hollywood Park",
+        "phone": "+1 708 389 7275",
+        "tourism": "theme_park",
+        "website": "https://crestwood.inthegame.net"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7782082968,
+      "lat": 41.8738519,
+      "lon": -87.6720105,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "1835",
+        "addr:postcode": "60612",
+        "addr:state": "IL",
+        "addr:street": "West Harrison Street",
+        "brand": "Hyatt House",
+        "brand:wikidata": "Q109292191",
+        "brand:wikipedia": "en:Hyatt",
+        "name": "Hyatt House Chicago - Medical / University District",
+        "rooms": "107",
+        "tourism": "hotel",
+        "website": "https://www.hyatt.com/en-US/hotel/illinois/hyatt-house-chicago-medical-university-district/chixt?src=prop_sm_chixt_hphh_facebk_landingpage_booknow"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7782082969,
+      "lat": 41.8738557,
+      "lon": -87.6733362,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "1835",
+        "addr:postcode": "60612",
+        "addr:state": "IL",
+        "addr:street": "West Harrison Street",
+        "brand": "Hyatt Place",
+        "brand:wikidata": "Q72629292",
+        "name": "Hyatt Place Chicago - Medical / University District",
+        "rooms": "103",
+        "tourism": "hotel",
+        "website": "https://www.hyatt.com/en-US/hotel/illinois/hyatt-place-chicago-medical-university-district/chizt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7862544202,
+      "lat": 41.8900345,
+      "lon": -87.669421,
+      "tags": {
+        "addr:housenumber": "437",
+        "addr:street": "North Paulina Street",
+        "name": "Marianne Ibrahim Gallery",
+        "phone": "+13128775436",
+        "tourism": "gallery",
+        "website": "https://marianneibrahim.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7874287865,
+      "lat": 41.891472,
+      "lon": -87.6092029,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "700",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "East Grand Avenue",
+        "museum": "children",
+        "name": "Chicago Children's Museum",
+        "opening_hours:covid19": "closed",
+        "tourism": "museum",
+        "website": "https://www.chicagochildrensmuseum.org/",
+        "wikidata": "Q2963300",
+        "wikipedia": "en:Chicago Children's Museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7874601393,
+      "lat": 41.8972351,
+      "lon": -87.6252667,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "800",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "North Michigan Avenue",
+        "brand": "Park Hyatt",
+        "brand:wikidata": "Q1425063",
+        "brand:wikipedia": "en:Hyatt",
+        "name": "Park Hyatt Chicago",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7874601398,
+      "lat": 41.8952518,
+      "lon": -87.6229806,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "160",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "East Huron Street",
+        "alt_name": "Hampton Inn",
+        "brand": "Hampton Inn & Suites",
+        "brand:wikidata": "Q5646230",
+        "brand:wikipedia": "en:Hampton by Hilton",
+        "name": "Hampton Inn & Suites Chicago Downtown/Magnificent Mile",
+        "official_name": "Hampton Inn & Suites by Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7874601399,
+      "lat": 41.8952458,
+      "lon": -87.6233239,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "152",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "East Huron Street",
+        "brand": "Homewood Suites",
+        "brand:wikidata": "Q5890701",
+        "brand:wikipedia": "en:Homewood Suites by Hilton",
+        "name": "Homewood Suites by Hilton Chicago Downtown/Magnificent Mile",
+        "official_name": "Homewood Suites by Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8331435517,
+      "lat": 42.0448965,
+      "lon": -87.89133,
+      "tags": {
+        "addr:housenumber": "1327",
+        "addr:postcode": "60016",
+        "addr:street": "Brown Street",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8410829689,
+      "lat": 42.0259599,
+      "lon": -87.7436311,
+      "tags": {
+        "addr:city": "Skokie",
+        "addr:housenumber": "4701",
+        "addr:postcode": "60076",
+        "addr:state": "IL",
+        "addr:street": "Oakton Street",
+        "museum": "children",
+        "name": "Exploratorium",
+        "operator": "Skokie Park District",
+        "operator:type": "public",
+        "tourism": "museum",
+        "website": "https://www.skokieparks.org/exploritorium/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8423129354,
+      "lat": 41.8375981,
+      "lon": -87.6533836,
+      "tags": {
+        "addr:housenumber": "3111",
+        "addr:street": "South Aberdeen Street",
+        "air_conditioning": "yes",
+        "description": "B&B",
+        "guest_house": "bed_and_breakfast",
+        "internet_access": "yes",
+        "operator": "Monastery of the Holy Cross",
+        "phone": "+1-888-539-4261 x202",
+        "rooms": "2",
+        "tourism": "guest_house",
+        "website": "https://chicagomonk.org/visit-us/benedictine-bed-breakfast/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8488846385,
+      "lat": 42.0430176,
+      "lon": -87.6737374,
+      "tags": {
+        "addr:city": "Evanston",
+        "addr:housenumber": "225",
+        "addr:postcode": "60201",
+        "addr:state": "IL",
+        "addr:street": "Greenwood Street",
+        "museum": "local",
+        "name": "Evanston History Center",
+        "phone": "+1-847-475-3410",
+        "tourism": "museum",
+        "website": "https://www.evanstonhistorycenter.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8530992001,
+      "lat": 41.6497747,
+      "lon": -87.7389832,
+      "tags": {
+        "addr:city": "Crestwood",
+        "addr:housenumber": "10330",
+        "addr:postcode": "60418",
+        "addr:state": "IL",
+        "addr:street": "Cicero Avenue",
+        "brand": "Holiday Inn Express",
+        "brand:wikidata": "Q5880423",
+        "brand:wikipedia": "en:Holiday Inn Express",
+        "name": "Holiday Inn Express Crestwood",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8902331412,
+      "lat": 41.8958533,
+      "lon": -87.6896072,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "2500",
+        "addr:postcode": "60622",
+        "addr:state": "IL",
+        "addr:street": "West Chicago Avenue",
+        "name": "The Martin - Gallery + Event Space",
+        "operator": "Whitney LaMora",
+        "tourism": "gallery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8910095375,
+      "lat": 41.8868372,
+      "lon": -87.6815231,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "2156",
+        "addr:postcode": "60612",
+        "addr:state": "IL",
+        "addr:street": "West Fulton Street",
+        "email": "info@corbettvsdempsey.com",
+        "name": "Corbett vs. Dempsey",
+        "opening_hours": "Tu-Sa 10:00-17:00",
+        "phone": "+1-773-278-1664",
+        "tourism": "gallery",
+        "website": "https://www.corbettvsdempsey.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8968009470,
+      "lat": 41.762502,
+      "lon": -87.6187848,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "7244",
+        "addr:postcode": "60619",
+        "addr:state": "IL",
+        "addr:street": "South Prairie Avenue",
+        "name": "Al Capone's House",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8968057698,
+      "lat": 41.8856307,
+      "lon": -87.6983895,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "2850",
+        "addr:postcode": "60612",
+        "addr:state": "IL",
+        "addr:street": "West Walnut Street",
+        "name": "Waller Apartments",
+        "tourism": "attraction",
+        "wikidata": "Q7963044",
+        "wikipedia": "en:Waller Apartments"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8991668275,
+      "lat": 41.9709399,
+      "lon": -87.6679578,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "4872",
+        "addr:postcode": "60640",
+        "addr:state": "IL",
+        "addr:street": "North Clark Street",
+        "name": "The Guesthouse Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9025067829,
+      "lat": 41.8836071,
+      "lon": -87.6430037,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "118",
+        "addr:postcode": "60661",
+        "addr:state": "IL",
+        "addr:street": "North Jefferson Street",
+        "brand": "Homewood Suites",
+        "brand:wikidata": "Q5890701",
+        "brand:wikipedia": "en:Homewood Suites by Hilton",
+        "internet_access": "wlan",
+        "name": "Homewood Suites",
+        "official_name": "Homewood Suites by Hilton",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9025081822,
+      "lat": 41.8784445,
+      "lon": -87.6350632,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "226",
+        "addr:postcode": "60606",
+        "addr:state": "IL",
+        "addr:street": "West Jackson Boulevard",
+        "brand": "Canopy",
+        "brand:wikidata": "Q30632909",
+        "brand:wikipedia": "en:Canopy by Hilton",
+        "name": "Canopy by Hilton",
+        "official_name": "Canopy by Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9025082288,
+      "lat": 41.8917428,
+      "lon": -87.6038081,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "900",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "East Grand Avenue",
+        "brand": "Hilton",
+        "brand:wikidata": "Q598884",
+        "brand:wikipedia": "en:Hilton Hotels & Resorts",
+        "name": "Sable at Navy Pier",
+        "rooms": "223",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9025468680,
+      "lat": 41.8775059,
+      "lon": -87.6475178,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "310",
+        "addr:postcode": "60661",
+        "addr:state": "IL",
+        "addr:street": "South Halsted Street",
+        "name": "Chicago Parthenon Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9025558070,
+      "lat": 41.8691394,
+      "lon": -87.6252364,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "55",
+        "addr:postcode": "60605",
+        "addr:state": "IL",
+        "addr:street": "East 11th Street",
+        "brand": "Homewood Suites",
+        "brand:wikidata": "Q5890701",
+        "brand:wikipedia": "en:Homewood Suites by Hilton",
+        "name": "Homewood Suites by Hilton - Chicago Downtown South Loop",
+        "official_name": "Homewood Suites by Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9033428106,
+      "lat": 41.8691273,
+      "lon": -87.6255051,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "55",
+        "addr:postcode": "60605",
+        "addr:state": "IL",
+        "addr:street": "East 11th Street",
+        "brand": "Hilton Garden Inn",
+        "brand:wikidata": "Q1162859",
+        "brand:wikipedia": "en:Hilton Garden Inn",
+        "name": "Hilton Garden Inn Chicago Downtown South Loop",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9111624405,
+      "lat": 41.8558929,
+      "lon": -87.623635,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "1925",
+        "addr:postcode": "60616",
+        "addr:state": "IL",
+        "addr:street": "S Michigan Ave",
+        "contact:phone": "+1-312-929-3911",
+        "email": "info@saichicago.org",
+        "name": "South Asia Institute",
+        "opening_hours": "Th-Sa 11:00-18:00 || \"by appointment\"",
+        "tourism": "gallery",
+        "website": "https://www.saichicago.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9419709851,
+      "lat": 41.8912803,
+      "lon": -87.6251877,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "521",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "North Rush Street",
+        "name": "The Gwen",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9642742872,
+      "lat": 41.662375,
+      "lon": -87.7456633,
+      "tags": {
+        "addr:city": "Alsip",
+        "addr:housenumber": "5150",
+        "addr:postcode": "60803",
+        "addr:state": "IL",
+        "addr:street": "West 127th Street",
+        "brand": "Motel 6",
+        "brand:wikidata": "Q2188884",
+        "brand:wikipedia": "en:Motel 6",
+        "name": "Motel 6 Alsip",
+        "tourism": "motel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9832986504,
+      "lat": 41.8934081,
+      "lon": -87.6265912,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:country": "US",
+        "addr:housenumber": "42",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "E Ontario St",
+        "description": "The Escape Game Chicago is America’s premier provider of uniquely premium escape rooms. Our adventures bring epic stories to life in a one-of-a-kind hands on experience. You might escape. You will have fun!",
+        "facebook": "https://www.facebook.com/TheEscapeGame",
+        "name": "The Escape Game Chicago",
+        "operator": "Escape Room",
+        "phone": "+1-312-453-7753",
+        "tourism": "attraction",
+        "website": "https://theescapegame.com/chicago/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9950117758,
+      "lat": 41.8559404,
+      "lon": -87.6467837,
+      "tags": {
+        "addr:housenumber": "1926",
+        "addr:street": "South Halsted Street",
+        "name": "Chicago Art Department",
+        "tourism": "gallery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10067042360,
+      "lat": 41.8962527,
+      "lon": -87.6679627,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "1612",
+        "addr:postcode": "60622",
+        "addr:state": "IL",
+        "addr:street": "West Chicago Avenue",
+        "email": "info@patrongallery.com",
+        "name": "Patron Gallery",
+        "opening_hours": "Tu-Sa 11:00-18:00",
+        "phone": "+1 312-846-1500",
+        "tourism": "gallery",
+        "website": "https://patrongallery.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10655733991,
+      "lat": 41.640671,
+      "lon": -87.7107619,
+      "tags": {
+        "addr:city": "Robbins",
+        "addr:housenumber": "3644",
+        "addr:postcode": "60472",
+        "addr:state": "IL",
+        "addr:street": "West 139th Street",
+        "museum": "history",
+        "name": "Robbins Illinois History Museum",
+        "tourism": "museum",
+        "website": "https://www.robbinshistorymusuem.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10659917515,
+      "lat": 41.8790843,
+      "lon": -87.6324884,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:country": "US",
+        "addr:housenumber": "208",
+        "addr:postcode": "60604",
+        "addr:street": "South La Salle Street",
+        "alt_name": "City National Bank and Trust Company",
+        "name": "The LaSalle Chicago",
+        "phone": "+1 312-634-0000",
+        "tourism": "hotel",
+        "website": "https://www.marriott.com/en-us/hotels/chiad-the-lasalle-chicago-autograph-collection/overview/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10659917516,
+      "lat": 41.879266,
+      "lon": -87.6330277,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "208",
+        "addr:postcode": "60604",
+        "addr:state": "IL",
+        "addr:street": "South La Salle Street",
+        "addr:street:name": "La Salle",
+        "addr:street:prefix": "South",
+        "addr:street:type": "Street",
+        "brand": "JW Marriott",
+        "brand:wikidata": "Q1067636",
+        "brand:wikipedia": "en:JW Marriott Hotels",
+        "name": "JW Marriott Chicago",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10873137225,
+      "lat": 41.8980264,
+      "lon": -87.6220778,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "835",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "North Michigan Avenue",
+        "museum": "local",
+        "name": "Chicago Sports Museum",
+        "tourism": "museum",
+        "website": "https://www.chicagosportsmuseum.com/",
+        "wikidata": "Q24037234",
+        "wikipedia": "en:Chicago Sports Museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10958109386,
+      "lat": 41.8806197,
+      "lon": -87.6246632,
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "104",
+        "addr:postcode": "60603",
+        "addr:state": "IL",
+        "addr:street": "South Michigan Avenue",
+        "contact:phone": "+1-312-374-9333",
+        "contact:website": "http://www.pritzkermilitary.org/",
+        "museum": "military",
+        "name": "Pritzker Military Museum & Library",
+        "name:etymology:wikidata": "Q15929656",
+        "name:etymology:wikipedia": "en:Jennifer Pritzker",
+        "opening_hours": "Mo-Sa 10:00-16:00; Tu-Th 10:00-18:00; Su 12:00-16:00",
+        "operator": "Colonel IL James N Pritzker Library for the Citizen Soldier",
+        "operator:type": "private_non_profit",
+        "tourism": "museum",
+        "website": "https://www.pritzkermilitary.org/",
+        "wikidata": "Q588030",
+        "wikipedia": "en:Pritzker Military Museum & Library"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11158104112,
+      "lat": 41.8809718,
+      "lon": -87.6869509,
+      "tags": {
+        "addr:housenumber": "2411",
+        "addr:street": "West Madison Street",
+        "check_date": "2023-08-30",
+        "name": "Legendary Art Gallery",
+        "tourism": "gallery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11158104313,
+      "lat": 41.8813155,
+      "lon": -87.6878952,
+      "tags": {
+        "addr:housenumber": "2436",
+        "addr:street": "West Madison Street",
+        "check_date": "2023-08-30",
+        "name": "DragonFLY Gallert & Creative Spaces",
+        "tourism": "gallery",
+        "website": "https://www.dragonflygallery.space/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11230141538,
+      "lat": 41.8861536,
+      "lon": -87.6585504,
+      "tags": {
+        "addr:housenumber": "219",
+        "name": "Kavi Gupta Gallery",
+        "name:en": "Kavi Gupta",
+        "tourism": "gallery",
+        "website": "https://kavigupta.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11246804737,
+      "lat": 41.8507188,
+      "lon": -87.658207,
+      "tags": {
+        "addr:housenumber": "2233",
+        "email": "hello@manacontemporary.com",
+        "name": "Mana Contemporary",
+        "opening_hours": "Mo-Fr 11:00-17:00",
+        "tourism": "gallery",
+        "website": "https://www.manacontemporary.com/visit/chicago/"
+      }
+    }
+  ]
+}

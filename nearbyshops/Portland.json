@@ -1,0 +1,744 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.5 4133829e",
+  "osm3s": {
+    "timestamp_osm_base": "2023-10-20T03:35:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 323588286,
+      "lat": 45.5261759,
+      "lon": -122.6897259,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "425",
+        "addr:postcode": "97209",
+        "addr:state": "OR",
+        "addr:street": "Northwest 18th Avenue",
+        "check_date": "2022-05-27",
+        "guest_house": "hostel",
+        "name": "Northwest Portland International Hostel and Guesthouse",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 534480242,
+      "lat": 45.5535819,
+      "lon": -122.6676819,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "4114",
+        "addr:postcode": "97217",
+        "addr:street": "North Vancouver Avenue",
+        "name": "Artery",
+        "tourism": "gallery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 663797625,
+      "lat": 45.5243378,
+      "lon": -122.677832,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "716",
+        "addr:postcode": "97209",
+        "addr:street": "Northwest Davis Street",
+        "name": "Augen Gallery",
+        "opening_hours": "Tu-Sa 11:00-17:30",
+        "phone": "+1-503-546-5056",
+        "tourism": "gallery",
+        "website": "https://www.augengallery.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 911552526,
+      "lat": 45.4934353,
+      "lon": -122.777851,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "9900",
+        "addr:postcode": "97225",
+        "addr:street": "Southwest Canyon Road",
+        "brand": "Best Western",
+        "brand:wikidata": "Q830334",
+        "contact:phone": "+1 503 297 2551",
+        "contact:website": "https://www.bestwestern.com/en_US/book/hotels-in-portland/best-western-portland-west-beaverton/propertyCode.38182.html",
+        "name": "Best Western",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1282221108,
+      "lat": 45.5581316,
+      "lon": -122.5443472,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "11417",
+        "addr:postcode": "97220",
+        "addr:state": "OR",
+        "addr:street": "Northeast Sandy Boulevard",
+        "name": "Budget Inn Portland Airport",
+        "tourism": "motel",
+        "website": "http://www.budgetinnportlandairport.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2174824165,
+      "lat": 45.525355,
+      "lon": -122.680325,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "319",
+        "addr:postcode": "97209",
+        "addr:state": "OR",
+        "addr:street": "Northwest 9th Avenue",
+        "name": "J. Pepin",
+        "opening_hours": "Tu-Sa 12:00-17:30; Su 12:00-16:00",
+        "phone": "+1-503-274-9614",
+        "tourism": "gallery",
+        "website": "http://www.jpepinartgallery.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3717724854,
+      "lat": 45.5352957,
+      "lon": -122.6975828,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "2234",
+        "addr:postcode": "97210",
+        "addr:state": "OR",
+        "addr:street": "Northwest Thurman Street",
+        "name": "The Freakybuttrue Peculiarium and Museum",
+        "phone": "+15032273164",
+        "tourism": "museum",
+        "website": "http://www.peculiarium.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3763194908,
+      "lat": 45.5143606,
+      "lon": -122.6795678,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "1300",
+        "addr:postcode": "97201",
+        "addr:state": "OR",
+        "addr:street": "Southwest 5th Avenue",
+        "name": "Wells Fargo History Exhibit",
+        "operator": "Wells Fargo",
+        "tourism": "museum",
+        "website": "https://www.wellsfargohistory.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3834743202,
+      "lat": 45.5122475,
+      "lon": -122.6204892,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "4031",
+        "addr:postcode": "97214",
+        "addr:street": "Southeast Hawthorne Boulevard",
+        "name": "The Garden Guest House on Hawthorne",
+        "tourism": "guest_house",
+        "website": "http://thegardenguesthouseonhawthorne.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3900788169,
+      "lat": 45.5525274,
+      "lon": -122.579305,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "4111",
+        "addr:postcode": "97220",
+        "addr:street": "Northeast 82nd Avenue",
+        "name": "Cameo Motel",
+        "phone": "+1-503-2885981",
+        "tourism": "motel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4006266584,
+      "lat": 45.6258384,
+      "lon": -122.6703614,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "601",
+        "addr:postcode": "98660",
+        "addr:street": "Broadway Street",
+        "brand": "Econo Lodge",
+        "brand:wikidata": "Q5333330",
+        "brand:wikipedia": "en:Econo Lodge",
+        "name": "Econo Lodge",
+        "tourism": "motel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4017520605,
+      "lat": 45.5264322,
+      "lon": -122.682516,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "1100",
+        "addr:postcode": "97209",
+        "addr:state": "OR",
+        "addr:street": "Northwest Glisan Street",
+        "addr:unit": "B1",
+        "name": "Gallery 114",
+        "tourism": "gallery",
+        "website": "http://www.gallery114pdx.com/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4035505070,
+      "lat": 45.5150962,
+      "lon": -122.6763292,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "1111",
+        "addr:postcode": "97204",
+        "addr:state": "OR",
+        "addr:street": "Southwest 2nd Avenue",
+        "name": "Portland Police Museum",
+        "tourism": "museum",
+        "website": "http://www.portlandpolicemuseum.com/",
+        "wikidata": "Q18749145"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4702902155,
+      "lat": 45.5973238,
+      "lon": -122.6693261,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "10350",
+        "addr:postcode": "97217",
+        "addr:street": "North Vancouver Way",
+        "name": "The Portlander Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4846940895,
+      "lat": 45.498534,
+      "lon": -122.8153709,
+      "tags": {
+        "addr:city": "Beaverton",
+        "addr:housenumber": "13489",
+        "addr:postcode": "97077",
+        "addr:state": "OR",
+        "addr:street": "Southwest Karl Braun Drive",
+        "name": "Vintage Tek",
+        "opening_hours": "Th 10:00-18:00; Sa 10:00-16:00",
+        "phone": "+1-503-644-0161",
+        "tourism": "museum",
+        "website": "https://vintagetek.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5054795291,
+      "lat": 45.5257419,
+      "lon": -122.680623,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "916",
+        "addr:postcode": "97209",
+        "addr:state": "OR",
+        "addr:street": "Northwest Flanders Street",
+        "name": "Holding Contemporary",
+        "opening_hours": "Tu-Sa 12:00-17:00",
+        "tourism": "gallery",
+        "website": "https://www.holdingcontemporary.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6309365669,
+      "lat": 45.5123586,
+      "lon": -122.6511119,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "1445",
+        "addr:postcode": "97214",
+        "addr:state": "OR",
+        "addr:street": "Southeast Hawthorne Boulevard",
+        "name": "Nucleus Portland",
+        "tourism": "gallery",
+        "website": "https://nucleusportland.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6342589435,
+      "lat": 45.5267709,
+      "lon": -122.685132,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "516",
+        "addr:postcode": "97209",
+        "addr:state": "OR",
+        "addr:street": "Northwest 14th Avenue",
+        "name": "Elisabeth Jones Art Center",
+        "toilets": "yes",
+        "tourism": "gallery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6348620394,
+      "lat": 45.52597,
+      "lon": -122.680612,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "929",
+        "addr:postcode": "97209",
+        "addr:state": "OR",
+        "addr:street": "Northwest Flanders Street",
+        "name": "Upfor",
+        "opening_hours": "Tu-Sa 11:00-18:00",
+        "phone": "+1-503-227-5111",
+        "tourism": "gallery",
+        "website": "https://upforgallery.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6348620395,
+      "lat": 45.5259733,
+      "lon": -122.6804,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "925",
+        "addr:postcode": "97209",
+        "addr:state": "OR",
+        "addr:street": "Northwest Flanders Street",
+        "email": "info@pdxcontemporaryart.com",
+        "fax": "+1-503-222-3068",
+        "name": "PDX Contemporary Art",
+        "opening_hours": "Tu-Sa 11:00-18:00",
+        "phone": "+1-503-222-0063",
+        "tourism": "gallery",
+        "website": "https://pdxcontemporaryart.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6348620397,
+      "lat": 45.5261074,
+      "lon": -122.680404,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "417",
+        "addr:postcode": "97209",
+        "addr:state": "OR",
+        "addr:street": "Northwest 9th Avenue",
+        "email": "art@elizabethleach.com",
+        "fax": "+1-503-224-0844",
+        "name": "Elizabeth Leach Gallery",
+        "opening_hours": "Tu-Sa 10:30-17:30",
+        "phone": "+1-503-224-0521",
+        "tourism": "gallery",
+        "website": "http://www.elizabethleach.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6348620398,
+      "lat": 45.5261741,
+      "lon": -122.680406,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "419",
+        "addr:postcode": "97209",
+        "addr:state": "OR",
+        "addr:street": "Northwest 9th Avenue",
+        "email": "info@lumberroom.com",
+        "name": "Lumber Room",
+        "opening_hours": "Fr 12:00-18:00",
+        "operator": "Lumber Room",
+        "tourism": "gallery",
+        "website": "http://www.lumberroom.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6363970747,
+      "lat": 45.5252149,
+      "lon": -122.684016,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "300",
+        "addr:postcode": "97209",
+        "addr:state": "OR",
+        "addr:street": "Northwest 13th Avenue",
+        "name": "Bullseye Projects",
+        "tourism": "gallery",
+        "website": "https://www.bullseyeprojects.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6369206841,
+      "lat": 45.5245459,
+      "lon": -122.680545,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "903",
+        "addr:postcode": "97209",
+        "addr:state": "OR",
+        "addr:street": "Northwest Davis Street",
+        "name": "Gallery 903",
+        "opening_hours": "Mo-Sa 10:00-17:30; Su 12:00-17:00",
+        "phone": "+1-503-248-0903",
+        "tourism": "gallery",
+        "website": "http://gallery903.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6369215305,
+      "lat": 45.5241852,
+      "lon": -122.679963,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "124",
+        "addr:postcode": "97209",
+        "addr:state": "OR",
+        "addr:street": "Northwest 9th Avenue",
+        "name": "Waterstone Gallery",
+        "opening_hours": "Tu-Sa 11:00-17:30; Su 11:00-16:00",
+        "phone": "+1-503-226-6196",
+        "tourism": "gallery",
+        "website": "http://www.waterstonegallery.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6442437042,
+      "lat": 45.5243447,
+      "lon": -122.6736205,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "127",
+        "addr:postcode": "97209",
+        "addr:state": "OR",
+        "addr:street": "Northwest 3rd Avenue",
+        "fee": "yes",
+        "name": "Portland Chinatown Museum",
+        "opening_hours": "Fr-Su 11:00-15:00",
+        "tourism": "museum",
+        "website": "https://www.portlandchinatownmuseum.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6447027354,
+      "lat": 45.5269671,
+      "lon": -122.680052,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "512",
+        "addr:postcode": "97209",
+        "addr:state": "OR",
+        "addr:street": "Northwest Glisan Street",
+        "name": "Exulansis",
+        "opening_hours": "\"by appointment\"",
+        "phone": "+1-503-468-6204",
+        "tourism": "gallery",
+        "website": "https://www.exulansis.gallery/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6451204974,
+      "lat": 45.5261594,
+      "lon": -122.678398,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "418",
+        "addr:postcode": "97209",
+        "addr:street": "Northwest 8th Avenue",
+        "name": "Adams and Ollman",
+        "tourism": "gallery",
+        "website": "https://adamsandollman.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6474219631,
+      "lat": 45.5190452,
+      "lon": -122.678002,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "525",
+        "addr:postcode": "97204",
+        "addr:state": "OR",
+        "addr:street": "Southwest Morrison Street",
+        "name": "The Nines, a Luxury Collection Hotel, Portland",
+        "phone": "+1 503-222-9996",
+        "tourism": "hotel",
+        "website": "https://www.thenines.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6503444841,
+      "lat": 45.5197659,
+      "lon": -122.6731005,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "120",
+        "addr:postcode": "97204",
+        "addr:state": "OR",
+        "addr:street": "Southwest Stark Street",
+        "name": "Nation Tours",
+        "office": "guide",
+        "phone": "+1-503-444-1530",
+        "tourism": "attraction",
+        "website": "https://nationtours.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6538245685,
+      "lat": 45.5244135,
+      "lon": -122.6725859,
+      "tags": {
+        "addr:housenumber": "131",
+        "addr:street": "Northwest 2nd Avenue",
+        "name": "Portland Walking Tours",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6773241857,
+      "lat": 45.5243343,
+      "lon": -122.6782058,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "724",
+        "addr:postcode": "97209",
+        "addr:street": "Northwest Davis Street",
+        "name": "Oregon Jewish Museum",
+        "phone": "+1-503-226-3600",
+        "tourism": "museum",
+        "website": "https://www.ojmche.org/",
+        "wikidata": "Q15264274"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6773241868,
+      "lat": 45.5162288,
+      "lon": -122.6836169,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "1219",
+        "addr:postcode": "97205",
+        "addr:street": "Southwest Park Avenue",
+        "fee": "yes",
+        "name": "Portland Art Museum",
+        "opening_hours": "Tu-We 10:00-17:00; Th-Fr 10:00-20:00; Sa-Su 10:00-17:00",
+        "tourism": "museum",
+        "website": "https://portlandartmuseum.org/",
+        "wikidata": "Q279049",
+        "wikipedia": "en:Portland Art Museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7194174480,
+      "lat": 45.537926,
+      "lon": -122.6735133,
+      "tags": {
+        "addr:housenumber": "687",
+        "addr:street": "North Tillamook Street",
+        "name": "Lisa Congdon",
+        "tourism": "gallery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7505192048,
+      "lat": 45.4561345,
+      "lon": -122.7672693,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "8800",
+        "addr:postcode": "97223",
+        "addr:state": "OR",
+        "addr:street": "Southwest Oleson Road",
+        "description": "Nordic Finn Ware is a shop for all of your Nordic needs. Featuring Marimekko, Iitala, Moomin & Miffy products, Nordic flags and a huge selection of kitchen and candy items, Finn Ware of Astoria has come to Portland.",
+        "email": "info@nordicnorthwest.org",
+        "name": "Nordic Finn Ware",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "opening_hours:covid19": "off",
+        "operator": "Nordic Northwest",
+        "operator:type": "private_non_profit",
+        "phone": "+1-503-741-1103",
+        "shop": "gift",
+        "tourism": "attraction",
+        "website": "https://www.nordicnorthwest.org"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7505192049,
+      "lat": 45.4561289,
+      "lon": -122.7674302,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "8800",
+        "addr:postcode": "97223",
+        "addr:state": "OR",
+        "addr:street": "Southwest Oleson Road",
+        "amenity": "restaurant",
+        "cuisine": "nordic",
+        "description": "Inspired by the sights and sounds of Swedish cafes and informed by the New Nordic movement, Broder, and now Broder Söder, is proud to serve a brunch and lunch menu that's been consistently ranked in Portland's Top Ten since 2007.",
+        "email": "info@nordicnorthwest.org",
+        "name": "Broder Söder",
+        "opening_hours": "Mo-Su 08:00-17:00",
+        "opening_hours:covid19": "off",
+        "operator": "Nordic Northwest",
+        "operator:type": "private_non_profit",
+        "phone": "+1-971-373-8762",
+        "shop": "variety_store",
+        "tourism": "attraction",
+        "website": "https://www.nordicnorthwest.org"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9006847343,
+      "lat": 45.6240729,
+      "lon": -122.6797868,
+      "tags": {
+        "addr:housenumber": "700",
+        "addr:street": "Waterfront Way",
+        "description": "Apartments overlooking the Vanouver Waterfront. Close to downtown and with a beautiful view of the I5 bridge.",
+        "name": "Riverwest Waterfront Apartments",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9006850757,
+      "lat": 45.6241928,
+      "lon": -122.6790442,
+      "tags": {
+        "addr:housenumber": "111",
+        "addr:street": "Parkway Place",
+        "description": "apartment building overlooking Vancouver Waterfront",
+        "name": "Rediviva at the Waterfront",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9081013422,
+      "lat": 45.5031028,
+      "lon": -122.6229007,
+      "tags": {
+        "addr:housenumber": "3860",
+        "addr:street": "Southeast Clinton Street",
+        "name": "Evermore Guesthouse",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9169923137,
+      "lat": 45.5268437,
+      "lon": -122.6320346,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "3131",
+        "addr:postcode": "97232",
+        "addr:state": "OR",
+        "addr:street": "Northeast Glisan Street",
+        "museum": "history",
+        "name": "Hellenic-American Cultural Center & Museum",
+        "opening_hours": "Tu-Fr 11:00-15:00, Su 12:00-13:00",
+        "phone": "+1 503-858-8567",
+        "tourism": "museum",
+        "website": "https://hellenicamericancc.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9236125660,
+      "lat": 45.6288978,
+      "lon": -122.6710408,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "108",
+        "addr:postcode": "98660",
+        "addr:state": "WA",
+        "addr:street": "East Evergreen Boulevard",
+        "name": "Art at the Cave",
+        "phone": "+1-360-314-6506",
+        "tourism": "gallery",
+        "website": "https://artatthecave.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9886284064,
+      "lat": 45.5578311,
+      "lon": -122.5456846,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "11324",
+        "addr:postcode": "97220",
+        "addr:state": "OR",
+        "addr:street": "Northeast Sandy Boulevard",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Courtesy Inn",
+        "phone": "+1 503 252 6059",
+        "tourism": "motel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10765069414,
+      "lat": 45.5598715,
+      "lon": -122.5601412,
+      "tags": {
+        "addr:city": "Portland",
+        "addr:housenumber": "9901",
+        "addr:postcode": "97220",
+        "addr:state": "OR",
+        "addr:street": "Northeast Sandy Boulevard",
+        "brand": "Best Western",
+        "brand:wikidata": "Q830334",
+        "brand:wikipedia": "en:Best Western",
+        "name": "Best Western Pony Soldier Inn - Airport",
+        "tourism": "hotel"
+      }
+    }
+  ]
+}
