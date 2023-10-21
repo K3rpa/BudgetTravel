@@ -24,4 +24,5 @@ urlpatterns = [
     path('api/',include('ChicagoModel.urls')),
     path('api/',include('PortlandModel.urls')),
     path('api/',include('AustinModel.urls')),
+    path('api/',include('ManhattanModel.urls')), 
 ]

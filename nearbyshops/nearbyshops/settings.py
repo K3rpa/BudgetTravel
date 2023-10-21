@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'ChicagoModel',
     'PortlandModel',
     'AustinModel',
+    'ManhattanModel',
 ]
 
 MIDDLEWARE = [
