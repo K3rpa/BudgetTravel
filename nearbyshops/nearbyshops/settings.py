@@ -43,10 +43,11 @@ INSTALLED_APPS = [
     'rest_framework',
     'shops',
     'restaurants',
-    'ChicagoModel',
-    'PortlandModel',
-    'AustinModel',
-    'ManhattanModel',
+    'tourism'
+    # 'ChicagoModel',
+    # 'PortlandModel',
+    # 'AustinModel',
+    # 'ManhattanModel',
 ]
 
 MIDDLEWARE = [
