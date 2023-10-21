@@ -15,6 +15,7 @@ def helper(nearbyshops,filename):
                 objType = obj['type']
                 if objType == 'node':
                     tags = obj['tags']
+                    state = tags.get('addr:state','N/A')
                     name = tags.get('name','N/A')
                     street = tags.get('addr:street', 'N/A')
                     city = tags.get('addr:city', 'N/A')
@@ -22,13 +23,14 @@ def helper(nearbyshops,filename):
                     longitude = obj.get('lon', 0)
                     latitude = obj.get('lat', 0)
                     location = fromstr(f'POINT({longitude} {latitude})', srid=4326)
-                    address = street + ", " + postalcode
-                    if(name != 'N/A' and street != 'N/A'):
+                    address = street + ", " +city+", "+state+","+postalcode
+                    if(name != 'N/A' and state != 'N/A'):
                         m=model()
                         m.address = address
                         m.city = city
                         m.name = name
                         m.location = location
+                        m.state = state
                         m.save()
             except KeyError:
                 print('false') 

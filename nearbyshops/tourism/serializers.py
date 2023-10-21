@@ -5,4 +5,4 @@ class TourismSerializer(GeoFeatureModelSerializer):
     class Meta:
         model = Tourism
         geo_field = "location"
-        fields = ('id','name','cost','address', 'city')
+        fields = ('id','name','cost','address', 'city','state')
