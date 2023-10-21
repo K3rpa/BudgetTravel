@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'shops',
     'restaurants',
+    'ChicagoModel',
 ]
 
 MIDDLEWARE = [

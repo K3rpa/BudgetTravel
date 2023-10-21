@@ -21,4 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/',include('restaurants.urls')),
     path('api/',include('shops.urls')),
+    path('api/',include('ChicagoModel.urls')),
 ]
