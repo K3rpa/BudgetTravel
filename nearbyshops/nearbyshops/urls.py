@@ -22,8 +22,5 @@ urlpatterns = [
     path('api/',include('restaurants.urls')),
     path('api/',include('shops.urls')),
     path('api/',include('tourism.urls')),
-    # path('api/',include('ChicagoModel.urls')),
-    # path('api/',include('PortlandModel.urls')),
-    # path('api/',include('AustinModel.urls')),
-    # path('api/',include('ManhattanModel.urls')), 
+    path('auth/', include('auth.urls')),
 ]
